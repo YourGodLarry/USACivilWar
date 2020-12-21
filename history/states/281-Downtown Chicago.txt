@@ -1,23 +1,30 @@
 state={
-	id=284
-	name="Chicago"
+	id=281
+	name="Downtown Chicago"
 	provinces={
-		7975
+		6100
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
 
-	history = {
+
+history = {
 owner = CIC
 add_core_of = CIC
 	buildings = {
 			infrastructure = 30
 			air_base = 0
-			industrial_complex = 4
+			industrial_complex = 10
                         arms_factory = 1
 			7540 = {
 				naval_base = 0
 			}
+
+
+
+
+
+
 
 
 }

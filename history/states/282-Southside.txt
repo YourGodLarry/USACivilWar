@@ -6,4 +6,18 @@ state={
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+
+		history = {
+owner = CIC
+add_core_of = CIC
+	buildings = {
+			infrastructure = 28
+			air_base = 0
+			industrial_complex = 4
+                        arms_factory = 1
+			7540 = {
+				naval_base = 0
+			}
+
+
 }
