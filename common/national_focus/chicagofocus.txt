@@ -1,0 +1,73 @@
+﻿focus_tree = {
+	id = newengland_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = CIC
+		}
+	}
+	
+
+
+
+
+
+
+
+			focus = {
+		id = shinecity
+		icon = GFX_focus_election
+		x = 12
+		y = 0
+
+
+		cost = 0.1
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		date > 2056.04.22
+		}
+		
+		bypass = {
+		date > 2056.04.22
+
+		}
+
+		available_if_capitulated = yes
+		search_filters = {FOCUS_FILTER_POLITICAL}
+		completion_reward = {
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+}

@@ -2,6 +2,9 @@ capital = 281
 
 oob = "CIC_1936"
 
+add_ideas = { 
+Shiningcity
+}
 
 
 

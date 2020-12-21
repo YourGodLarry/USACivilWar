@@ -5640,7 +5640,10 @@ spriteTypes = {
 		name = "GFX_idea_avangridbad"
 		texturefile = "gfx/interface/ideas/avangridbad.dds"
 	}
-
+							spriteType = {
+		name = "GFX_idea_shining_city"
+		texturefile = "gfx/interface/ideas/shining_city.dds"
+	}
 
 
 

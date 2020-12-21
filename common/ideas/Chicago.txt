@@ -1,0 +1,58 @@
+ideas = {
+
+	country = {
+
+
+
+
+
+
+		
+
+
+				Shiningcity = {
+			picture = shining_city
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				production_speed_infrastructure_factor = -0.15
+			}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
