@@ -1,6 +1,9 @@
 state={
 	id=98
 	name="North Country"
+	history = {
+	owner = AOF
+	}
 	provinces={
 		228 1492 1625 2289 2910 4152 4917 5056 5315 5673 6679 6838 7366 7388 7397 7399 7453 7464 
 	}

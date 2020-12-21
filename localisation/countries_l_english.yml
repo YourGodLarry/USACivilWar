@@ -25,6 +25,12 @@ ARS_neutrality:0 "Aroostook Principality"
 
 
 
+
+
+
+
+
+
 CIC_Libertarian:0 "New Chicago"
 CIC_Libertarian_DEF:0 "New Chicago"
 CIC_Libertarian_ADJ:0 "New Chicago"
@@ -108,6 +114,19 @@ DEL_Libertarian_ADJ:0 "The State of Delaware"
 PEN_Conservative:0 "Commonwealth of Pennsylvania"
 PEN_Conservative_ADJ:0 "The Commonwealth of Pennsylvania"
 PEN_Conservative_DEF:0 "The Commonwealth of Pennsylvania"
+
+
+
+
+
+
+
+
+
+
+AOF_Libertarian:0 "Army of the Free"
+AOF_Libertarian_AFJ:0 "The Army of the Free"
+AOF_Libertarian_DEJ:0 "The Army of the Free"
 
 
 

@@ -1,5 +1,10 @@
 #reload countrycolors
 
+AOF = {
+	color = rgb { 61 186 165 }
+	color_ui = rgb { 61 186 165 }
+}
+
 PEN = {
 	color = rgb { 54 73 192 }
 	color_ui = rgb { 54 73 192 }

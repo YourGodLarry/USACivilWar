@@ -15,6 +15,16 @@ bookmarks = {
 			ideology = Libertarian
 			ideas = {
 				newengland_towns
+				avangridbad
+			}
+		}
+
+
+				"CIC"={
+			history = "CIC_GATHERING_STORM_DESC"
+			ideology = Conservative
+			ideas = {
+				Shiningcity
 			}
 		}
 
