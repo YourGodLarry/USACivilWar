@@ -1,0 +1,33 @@
+
+state={
+	id=3
+	name="Boston"
+
+history = {
+owner = NEL
+add_core_of = NEL
+		victory_points = { 7540 30 }
+		victory_points = { 7528 5 }
+		victory_points = { 6237 7 }
+		victory_points = { 1122 3 }
+	buildings = {
+			infrastructure = 18
+			air_base = 4
+			industrial_complex = 4
+                        arms_factory = 1
+			7540 = {
+				naval_base = 4
+			}
+
+
+}
+}
+
+
+	provinces={
+		1122 6237 7528 7540 
+	}
+	manpower=1636728
+	state_category = megalopolis
+	buildings_max_level_factor=1.000
+}

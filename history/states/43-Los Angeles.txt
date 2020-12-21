@@ -1,0 +1,9 @@
+state={
+	id=43
+	name="Los Angeles"
+	provinces={
+		179 2380 2441 2496 2701 5046 5548 5820 6596 8934 8943 8944 8952 8954 8965 8974 8991 8995 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+
+supply_area={
+	id=27
+	name="New Brunswick"
+	value=7
+	states={
+		131 130 128 129 140 133 132 135 134 
+	}
+}

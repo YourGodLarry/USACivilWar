@@ -1,0 +1,9 @@
+state={
+	id=139
+	name="Montmagny"
+	provinces={
+		637 2085 2153 2386 3167 4221 4475 4976 6728 7178 7218 7222 7223 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

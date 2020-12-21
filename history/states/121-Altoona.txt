@@ -1,0 +1,14 @@
+
+state={
+	id=121
+	name="Altoona"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		84 211 2564 2856 3147 4447 4493 5085 5289 5880 6014 6264 6553 7957 7985 8042 8074 8092 8101 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

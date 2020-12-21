@@ -1,0 +1,25 @@
+state={
+	id=110
+	name="Philadelphia"
+	history = {
+owner = PEN
+add_core_of = PEN
+	victory_points = { 8012 20 }
+	victory_points = { 7996 50 }
+	victory_points = { 4443 20 }
+		buildings = {
+			infrastructure = 18
+            arms_factory = 2
+            industrial_complex = 6
+            	7996 = {
+				naval_base = 8
+			}
+			}
+}
+	provinces={
+		4443 7996 8012 
+	}
+	manpower=3249842
+	state_category = megalopolis
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=78
+	name="Cape Cod"
+
+history = {
+owner = NEL
+add_core_of = NEL
+		victory_points = { 7591 3 }
+		victory_points = { 7608 3 }
+		victory_points = { 7628 1 }
+	buildings = {
+			infrastructure = 1
+			air_base = 1
+			7591 = {
+				naval_base = 3
+			}
+
+
+}
+}
+
+
+	provinces={
+		7591 7603 7608 7628 7634 
+	}
+	manpower=186572
+	state_category = town
+	buildings_max_level_factor=1.000
+}

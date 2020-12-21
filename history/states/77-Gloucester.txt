@@ -1,0 +1,21 @@
+state={
+	id=77
+	name="Gloucester"
+
+history = {
+owner = NEL
+add_core_of = NEL
+		victory_points = { 7502 5 }
+	buildings = {
+			infrastructure = 10
+}
+}
+
+
+	provinces={
+		2429 5138 7502 
+	}
+	manpower=179800
+	state_category = city
+	buildings_max_level_factor=1.000
+}

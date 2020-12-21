@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=6
+	name="Bay of Fundy"
+	provinces={
+		10563 11012 11345 12444 12477 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

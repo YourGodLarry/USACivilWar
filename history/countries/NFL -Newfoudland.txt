@@ -1,0 +1,32 @@
+capital = 57
+
+oob = "NFL_1936"
+
+
+
+
+set_politics = {
+	ruling_party = Conservative
+	last_election = "1934.7.1"
+	election_frequency = 72
+	elections_allowed = yes
+}
+set_popularities = {
+    Libertarian = 22
+	Conservative = 52
+	Larryism = 2
+	fascism = 7
+	communism = 7
+	neutrality = 10
+}
+
+create_country_leader = {
+	name = "Conor Murphy"
+	desc = "POLITICS_GARY_HAWKINSON_DESC"
+	picture = "Portrait_Newfoundland_Conor_Murphy.tga"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}

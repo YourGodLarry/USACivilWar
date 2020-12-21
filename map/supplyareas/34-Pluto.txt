@@ -1,0 +1,8 @@
+supply_area={
+	id=34
+	name="Pluto"
+	value=10
+	states={
+		90 89 271 88 87 272 
+	}
+}

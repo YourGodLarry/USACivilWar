@@ -1,0 +1,15 @@
+state={
+	id=88
+	name="North Pluto"
+
+	history = {
+	owner = PLT
+	}
+
+	
+	provinces={
+		534 2692 3041 3578 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

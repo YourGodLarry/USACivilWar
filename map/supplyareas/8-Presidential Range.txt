@@ -1,0 +1,8 @@
+supply_area={
+	id=8
+	name="Presidential Range"
+	value=4
+	states={
+		74 
+	}
+}

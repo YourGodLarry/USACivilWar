@@ -1,0 +1,8 @@
+supply_area={
+	id=7
+	name="Portland"
+	value=9
+	states={
+		6 
+	}
+}

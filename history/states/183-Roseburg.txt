@@ -1,0 +1,9 @@
+state={
+	id=183
+	name="Roseburg"
+	provinces={
+		184 1911 2270 5076 5756 5944 7391 7401 7435 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=191
+	name="Harper"
+	provinces={
+		2308 2520 3561 4782 5978 6759 7379 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

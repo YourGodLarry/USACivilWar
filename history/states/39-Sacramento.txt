@@ -1,0 +1,9 @@
+state={
+	id=39
+	name="Sacramento"
+	provinces={
+		984 5120 6833 8118 8159 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

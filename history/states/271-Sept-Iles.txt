@@ -1,0 +1,9 @@
+state={
+	id=271
+	name="Sept Isles"
+	provinces={
+		620 1113 2372 2980 5230 6475 7008 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

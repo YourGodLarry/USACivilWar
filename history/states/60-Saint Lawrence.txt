@@ -1,0 +1,18 @@
+
+state={
+	id=60
+	name="Saint Lawrence"
+
+history = {
+owner = NFL
+}
+
+
+
+
+	provinces={
+		472 1205 2209 6996 7007 10300 10302 10306 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

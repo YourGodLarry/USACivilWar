@@ -1,0 +1,9 @@
+state={
+	id=192
+	name="Stanfield"
+	provinces={
+		1518 2643 3047 3777 3923 4714 5419 7344 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

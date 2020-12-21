@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=130
+	name="Guantanamo"
+	provinces={
+		10615 10644 10772 10935 11550 11892 12100 12105 12359 12461 12740 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

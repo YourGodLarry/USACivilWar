@@ -1,0 +1,28 @@
+state={
+	id=72
+	name="Androscoggin"
+
+history = {
+owner = NEL
+add_core_of = NEL
+		victory_points = { 6057 5 }
+				victory_points = { 5795 10 }
+						victory_points = { 5406 5 }
+	buildings = {
+			infrastructure = 1
+			6057 = {
+				naval_base = 2
+			}
+
+
+}
+}
+
+
+	provinces={
+		1450 1874 3025 5406 5795 6057 7332 7362 7376 
+	}
+	manpower=189342
+	state_category = town
+	buildings_max_level_factor=1.000
+}

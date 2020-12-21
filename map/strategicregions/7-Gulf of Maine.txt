@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=7
+	name="Gulf of Maine"
+	provinces={
+		10370 10371 10372 10373 10374 10375 10507 10796 11046 11079 11215 11361 11483 11858 12241 12417 12447 12575 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

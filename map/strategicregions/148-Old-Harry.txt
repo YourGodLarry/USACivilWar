@@ -1,0 +1,9 @@
+strategic_region={
+	id=148
+	name="Old-Harry"
+	provinces={
+		10334 
+	}
+	weather={
+	}
+}

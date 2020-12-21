@@ -1,0 +1,9 @@
+strategic_region={
+	id=146
+	name="Anti-Costi"
+	provinces={
+		1126 1659 1854 2043 6432 7029 
+	}
+	weather={
+	}
+}

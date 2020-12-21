@@ -1,0 +1,15 @@
+state={
+	id=87
+	name="Pluto Island"
+
+		history = {
+	owner = PLT
+	}
+
+	
+	provinces={
+		853 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=109
+	name="Kent"
+	history = {
+	owner = DEL
+	add_core_of = DEL
+	victory_points = { 8213 10 }
+	victory_points = { 8219 5 }
+		buildings = {
+			infrastructure = 7
+			air_base = 1
+			industrial_complex = 1
+			}
+
+	}
+	provinces={
+		3634 5094 8197 8213 8219 
+	}
+	manpower=245981
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

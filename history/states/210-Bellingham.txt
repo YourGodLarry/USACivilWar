@@ -1,0 +1,9 @@
+state={
+	id=210
+	name="Bellingham"
+	provinces={
+		2262 6048 7094 7101 7109 7117 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

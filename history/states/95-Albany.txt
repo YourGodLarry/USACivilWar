@@ -1,0 +1,9 @@
+state={
+	id=95
+	name="Albany"
+	provinces={
+		263 1023 1640 3009 5547 5739 5816 7507 7521 7533 7561 7661 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

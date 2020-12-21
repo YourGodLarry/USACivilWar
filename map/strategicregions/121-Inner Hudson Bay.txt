@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=121
+	name="Inner Hudson Bay"
+	provinces={
+		10825 10903 10983 11113 11129 11275 11408 11457 11491 11516 11532 11850 11857 11860 12024 12101 12183 12257 12442 12531 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

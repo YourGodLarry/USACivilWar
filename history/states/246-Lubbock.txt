@@ -1,0 +1,9 @@
+state={
+	id=246
+	name="Lubbock"
+	provinces={
+		1952 2284 3444 3823 4177 4604 5517 6618 9338 9381 9391 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

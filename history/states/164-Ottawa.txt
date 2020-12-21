@@ -1,0 +1,10 @@
+
+state={
+	id=164
+	name="Ottawa"
+	provinces={
+		1834 1925 2233 3013 7345 7361 7375 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

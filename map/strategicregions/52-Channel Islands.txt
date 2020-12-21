@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=52
+	name="Channel Islands"
+	provinces={
+		10898 10953 11135 11163 11190 11239 11392 11528 11611 11697 11711 12136 12627 12628 12630 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

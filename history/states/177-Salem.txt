@@ -1,0 +1,9 @@
+state={
+	id=177
+	name="Salem"
+	provinces={
+		925 2333 3301 4355 6079 7293 7308 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=178
+	name="Newport"
+	provinces={
+		3598 7263 7273 7278 7286 7298 7303 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

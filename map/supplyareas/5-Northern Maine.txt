@@ -1,0 +1,8 @@
+supply_area={
+	id=5
+	name="Northern Maine"
+	value=4
+	states={
+		71 
+	}
+}

@@ -1,0 +1,10 @@
+
+state={
+	id=18
+	name="Annapolis"
+	provinces={
+		1989 2204 3148 4424 4702 5579 5721 5950 6574 6745 8262 8296 8333 8338 8357 8365 8378 8397 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

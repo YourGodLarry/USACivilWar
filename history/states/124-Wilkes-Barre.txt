@@ -1,0 +1,13 @@
+state={
+	id=124
+	name="Wilkes-Barr"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		2960 3563 5037 6227 6347 6734 7878 7879 7905 7924 7930 7973 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

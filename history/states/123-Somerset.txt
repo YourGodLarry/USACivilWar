@@ -1,0 +1,13 @@
+state={
+	id=123
+	name="Somerset"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		2136 3339 3954 5211 5245 5538 5702 6238 8104 8133 8150 8182 8192 8194 8210 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

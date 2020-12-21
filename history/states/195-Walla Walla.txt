@@ -1,0 +1,9 @@
+state={
+	id=195
+	name="Walla Walla"
+	provinces={
+		2167 2416 4704 7250 7270 7283 7292 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

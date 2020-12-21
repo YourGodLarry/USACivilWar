@@ -1,0 +1,33 @@
+
+state={
+	id=69
+	name="Downeast"
+
+history = {
+owner = NEL
+add_core_of = NEL
+		victory_points = { 7300 2 }
+				victory_points = { 3586 5 }
+						victory_points = { 4136 1 }
+								victory_points = { 6538 2 }
+		VICTORY_POINTS_5406:0 "Waterville"
+	buildings = {
+			infrastructure = 1
+			air_base = 2
+			industrial_complex = 1
+			7300 = {
+				naval_base = 1
+			}
+
+
+}
+}
+
+
+	provinces={
+		616 1865 3422 3586 4136 6538 7300 7301 
+	}
+	manpower=169541
+	state_category = town
+	buildings_max_level_factor=1.000
+}

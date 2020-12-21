@@ -1,0 +1,9 @@
+state={
+	id=208
+	name="Okanogsan-Wenatchee Mountains"
+	provinces={
+		665 826 1024 1115 1595 2868 3616 3738 3845 5496 6173 6649 7133 7168 12938 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

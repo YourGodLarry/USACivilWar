@@ -1,0 +1,9 @@
+state={
+	id=166
+	name="Saguenay"
+	provinces={
+		519 871 1211 2159 3871 6355 7125 7141 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=188
+	name="Lakeview"
+	provinces={
+		624 1110 1208 4027 5148 7564 7612 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

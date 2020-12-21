@@ -1,0 +1,9 @@
+state={
+	id=159
+	name="Toronto"
+	provinces={
+		4249 4418 5441 5914 6018 7575 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=218
+	name="Mexicali"
+
+	history={
+		owner = MEX
+
+	}
+
+
+
+	provinces={
+		728 1876 2833 4744 4900 5028 5581 6080 6434 6609 9268 9273 9322 9333 9340 9349 9354 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

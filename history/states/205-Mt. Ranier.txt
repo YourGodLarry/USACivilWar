@@ -1,0 +1,9 @@
+state={
+	id=205
+	name="Mt. Ranier"
+	provinces={
+		337 3612 4911 6502 7171 7182 7197 7199 7204 7206 7212 7214 7219 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

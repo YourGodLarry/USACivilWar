@@ -1,0 +1,17 @@
+state={
+	id=59
+	name="Channel Port"
+
+history = {
+owner = NFL
+}
+
+
+
+
+	provinces={
+		2622 3112 3793 4860 7015 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

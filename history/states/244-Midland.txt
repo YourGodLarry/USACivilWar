@@ -1,0 +1,9 @@
+state={
+	id=244
+	name="Midland"
+	provinces={
+		660 768 1723 1750 2608 3648 3688 4607 5291 5992 6376 6487 9567 9683 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=182
+	name="Gold Beach"
+	provinces={
+		449 2111 3964 4325 7474 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

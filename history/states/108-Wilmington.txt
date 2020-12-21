@@ -1,0 +1,21 @@
+state={
+	id=108
+	name="New Castle"
+	history = {
+	owner = DEL
+	add_core_of = DEL
+	victory_points = { 6457 20 }
+	victory_points = { 8168 10 }
+		buildings = {
+			infrastructure = 12
+			industrial_complex = 2
+			air_base = 3
+			}
+	}
+	provinces={
+		6457 8168 8171 
+	}
+	manpower=456129
+	buildings_max_level_factor=1.000
+	state_category = city
+}

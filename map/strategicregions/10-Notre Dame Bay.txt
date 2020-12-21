@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=10
+	name="Notre Dame Bay"
+	provinces={
+		10865 10886 11094 11359 11498 11551 11707 12094 12138 12150 12220 12526 12527 12534 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

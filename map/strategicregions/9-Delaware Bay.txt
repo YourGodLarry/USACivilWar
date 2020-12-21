@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=9
+	name="Delaware Bay"
+	provinces={
+		10845 11208 11342 11547 12056 12104 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

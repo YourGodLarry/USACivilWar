@@ -1,0 +1,9 @@
+state={
+	id=234
+	name="San Antonio"
+	provinces={
+		4534 5859 9839 9842 9851 9852 9855 9865 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

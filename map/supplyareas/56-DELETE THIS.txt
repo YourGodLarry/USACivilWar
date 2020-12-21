@@ -1,0 +1,8 @@
+supply_area={
+	id=56
+	name="DELETE THIS"
+	value=10
+	states={
+		263 264 
+	}
+}

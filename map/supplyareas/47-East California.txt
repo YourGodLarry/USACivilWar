@@ -1,0 +1,8 @@
+supply_area={
+	id=47
+	name="East California"
+	value=3
+	states={
+		51 52 55 
+	}
+}

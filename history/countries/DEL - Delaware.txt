@@ -1,0 +1,32 @@
+capital = 109
+
+oob = "DEL_1936"
+
+
+
+
+set_politics = {
+	ruling_party = Libertarian
+	last_election = "1934.7.1"
+	election_frequency = 72
+	elections_allowed = yes
+}
+set_popularities = {
+    Libertarian = 22
+	Conservative = 52
+	Larryism = 8
+	fascism = 4
+	communism = 4
+	neutrality = 10
+}
+
+create_country_leader = {
+	name = "Susan White"
+	desc = "POLITICS_Susan_White_DESC"
+	picture = "Portrait_Susan_White.tga"
+	expire = "1965.1.1"
+	ideology = libertarianism
+	traits = {
+		#
+	}
+}

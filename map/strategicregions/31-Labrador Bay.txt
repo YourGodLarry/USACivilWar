@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=31
+	name="Labrador Bay"
+	provinces={
+		11182 11304 11373 11412 11462 11473 11489 11679 11870 12422 12425 12530 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

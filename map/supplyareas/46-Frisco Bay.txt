@@ -1,0 +1,8 @@
+supply_area={
+	id=46
+	name="Frisco Bay"
+	value=13
+	states={
+		37 38 40 
+	}
+}

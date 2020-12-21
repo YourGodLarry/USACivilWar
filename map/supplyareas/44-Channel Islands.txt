@@ -1,0 +1,8 @@
+supply_area={
+	id=44
+	name="Channel Islands"
+	value=3
+	states={
+		214 
+	}
+}

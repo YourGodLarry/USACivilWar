@@ -1,0 +1,9 @@
+state={
+	id=169
+	name="Brampton"
+	provinces={
+		3096 3901 4086 5805 6077 7568 7590 7638 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

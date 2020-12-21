@@ -1,0 +1,9 @@
+strategic_region={
+	id=145
+	name="South Labrador Coast"
+	provinces={
+		142 431 620 726 1113 2212 2372 2980 3064 3878 5230 6475 6918 6939 7008 10281 10282 10283 
+	}
+	weather={
+	}
+}

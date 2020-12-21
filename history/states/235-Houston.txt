@@ -1,0 +1,10 @@
+
+state={
+	id=235
+	name="Houston"
+	provinces={
+		105 1988 3410 4201 4405 4590 5020 6144 6192 6420 6765 9782 9787 9792 9799 9810 9832 9836 9840 9853 10414 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

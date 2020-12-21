@@ -1,0 +1,21 @@
+state={
+	id=157
+	name="Wicomico"
+	history = {
+	owner = DEL
+	add_core_of = DEL
+	victory_points = { 8350 10 }
+	victory_points = { 8343 5 }
+			buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			}
+	}
+	provinces={
+		3849 4825 5924 6491 8317 8343 8350 8379 
+	}
+	manpower=328975
+	state_category = town
+	buildings_max_level_factor=1.000
+}

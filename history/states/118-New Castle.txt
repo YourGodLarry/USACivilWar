@@ -1,0 +1,13 @@
+state={
+	id=118
+	name="New Castle"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		3346 3601 4400 4736 5021 6037 6777 7992 8014 8022 8039 8051 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

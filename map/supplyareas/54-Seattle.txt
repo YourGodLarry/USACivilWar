@@ -1,0 +1,8 @@
+supply_area={
+	id=54
+	name="Seattle"
+	value=10
+	states={
+		198 194 199 210 
+	}
+}

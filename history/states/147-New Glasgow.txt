@@ -1,0 +1,30 @@
+state={
+	id=147
+	name="New Glasgow"
+
+history = {
+owner = PEI
+add_core_of = PEI
+			victory_points = { 4052 7 }
+			victory_points = { 2612 7 }
+	buildings = {
+			infrastructure = 2 
+									4052 = {
+				naval_base = 4
+			}
+												2612 = {
+				naval_base = 2
+			}
+
+
+}
+}
+
+
+	provinces={
+		638 2612 4052 7177 7180 
+	}
+	manpower=123987
+    state_category = town
+	buildings_max_level_factor=1.000
+}

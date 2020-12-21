@@ -1,0 +1,251 @@
+
+division_template = {
+	name = "Infantry Brigade"				
+
+	division_names_group = NEL_GAR_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 0 y = 4 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+		infantry = { x = 1 y = 4 }
+	}
+	priority = 10
+}
+
+
+
+
+
+division_template = {
+	name = "Minuteman Militia"				
+
+	division_names_group = NEL_GAR_01
+
+	regiments = {
+		Militia = { x = 0 y = 0 }
+		Militia = { x = 0 y = 1 }
+		Militia = { x = 0 y = 2 }
+		Militia = { x = 0 y = 3 }
+		Militia = { x = 0 y = 4 }
+	}
+	priority = 1
+}
+units = {
+	division = {
+		name = "1st New Hampshire Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7487
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 0.7
+		start_experience_factor = 0.5
+
+	}
+		division = {
+		name = "1st Massachusetts Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7540
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 0.7
+		start_experience_factor = 0.5
+
+	}
+		division = {
+		name = "1st Maine Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5320
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 0.7
+		start_experience_factor = 0.5
+
+	}
+		division = {
+		name = "Green Mountain Boys"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7393
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 1
+		start_experience_factor = 1
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	division = {
+		name = "1st Boston Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7540
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+	division = {
+		name = "2nd Boston Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6237
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+	division = {
+		name = "Cape Cod Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7591
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "Portland Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5320
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "Providence Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7641
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "Worcester Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7582
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "Bangor Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 4749
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "Houlton Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6197
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "Millinocket Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 363
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "Manchester Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7513
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "Burlington Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 3879
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+}

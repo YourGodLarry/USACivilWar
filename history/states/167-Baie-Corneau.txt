@@ -1,0 +1,15 @@
+state={
+	id=167
+	name="Baie-Corneau"
+
+		history = {
+	owner = PLT
+	}
+
+	
+	provinces={
+		1947 2535 3283 4684 7095 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

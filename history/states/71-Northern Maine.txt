@@ -1,0 +1,24 @@
+state={
+	id=71
+	name="Northern Maine"
+
+history = {
+owner = NEL
+add_core_of = NEL
+			victory_points = { 1579 5 }
+			victory_points = { 2898 5 }
+			victory_points = { 363 5 }
+	buildings = {
+			infrastructure = 1
+			air_base = 3
+}
+}
+
+
+	provinces={
+		363 1260 1318 1579 2030 2501 2886 2898 3001 3066 3945 4530 4564 4630 6443 7251 7312 7358 
+	}
+	manpower=378129
+    state_category = rural
+	buildings_max_level_factor=1.000
+}

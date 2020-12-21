@@ -1,0 +1,28 @@
+state={
+	id=83
+	name="Newport"
+
+history = {
+owner = NEL
+add_core_of = NEL
+
+		victory_points = { 5813 10 }
+	buildings = {
+			dockyard = 1
+			infrastructure = 1
+			5813 = {
+				naval_base = 7
+			}
+
+
+}
+}
+
+
+	provinces={
+		1339 4036 5813 7694 
+	}
+	manpower=289786
+		state_category = town
+	buildings_max_level_factor=1.000
+}

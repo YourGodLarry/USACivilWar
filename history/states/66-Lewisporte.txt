@@ -1,0 +1,17 @@
+state={
+	id=66
+	name="Lewisporte"
+
+history = {
+owner = NFL
+}
+
+
+
+
+	provinces={
+		308 1300 2449 4941 6957 6984 6987 10284 10287 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

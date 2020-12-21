@@ -1,0 +1,10 @@
+
+state={
+	id=37
+	name="San Francisco"
+	provinces={
+		2075 2146 3526 6707 8224 8231 8247 8258 8288 8313 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=161
+	name="Saint Clair"
+	provinces={
+		1273 1605 5009 5980 7834 7843 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

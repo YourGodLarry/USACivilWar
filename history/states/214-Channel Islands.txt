@@ -1,0 +1,9 @@
+state={
+	id=214
+	name="Channel Islands"
+	provinces={
+		10394 10395 10396 10397 10398 10399 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=193
+	name="La Grande"
+	provinces={
+		485 694 957 1585 1907 2958 3456 5165 5433 6245 7331 7353 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

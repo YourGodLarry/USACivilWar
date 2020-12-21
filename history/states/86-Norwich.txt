@@ -1,0 +1,15 @@
+state={
+	id=86
+	name="Norwich"
+
+history = {
+owner = NEL
+}
+
+
+	provinces={
+		314 2996 7645 7649 7669 7672 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

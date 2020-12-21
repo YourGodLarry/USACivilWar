@@ -1,0 +1,27 @@
+state={
+	id=92
+	name="Acadia"
+
+history = {
+owner = NEL
+add_core_of = NEL
+		victory_points = { 10370 3 }
+buildings = {
+			infrastructure = 1
+			10370 = {
+				naval_base = 4
+			}
+
+
+}
+}
+
+
+	provinces={
+		10370 
+	}
+	set_demilitarized_zone = yes
+	manpower=31421
+		state_category = small_island
+	buildings_max_level_factor=1.000
+}

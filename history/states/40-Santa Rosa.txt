@@ -1,0 +1,9 @@
+state={
+	id=40
+	name="Santa Rosa"
+	provinces={
+		2079 3924 4111 5692 5900 5962 6166 6611 8040 8043 8066 8084 8109 8113 8134 8172 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

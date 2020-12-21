@@ -1,0 +1,9 @@
+state={
+	id=241
+	name="El Paso"
+	provinces={
+		216 761 2705 5042 5082 9536 9556 9585 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

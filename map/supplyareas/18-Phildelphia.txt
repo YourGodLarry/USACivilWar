@@ -1,0 +1,8 @@
+supply_area={
+	id=18
+	name="Philadelphia"
+	value=12
+	states={
+		110 113 115 
+	}
+}

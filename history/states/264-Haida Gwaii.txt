@@ -1,0 +1,9 @@
+state={
+	id=264
+	name="Haida Gwaii"
+	provinces={
+		438 4535 4566 5457 10266 10275 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=115
+	name="Chester"
+		history = {
+owner = PEN
+add_core_of = PEN
+	victory_points = { 6268 20 }
+	victory_points = { 8112 3 }
+	victory_points = { 8048 5 }
+	victory_points = { 974 3 }
+		buildings = {
+			infrastructure = 12
+            arms_factory = 1
+            industrial_complex = 1
+			}
+}
+	provinces={
+		974 3937 8048 8112 6268
+	}
+	manpower=569192
+	state_category = city
+	buildings_max_level_factor=1.000
+}

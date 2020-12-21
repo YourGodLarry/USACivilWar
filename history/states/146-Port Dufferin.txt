@@ -1,0 +1,15 @@
+state={
+	id=146
+	name="Port Dufferin"
+
+history = {
+owner = PEI
+}
+
+
+	provinces={
+		676 1479 2657 4717 7163 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

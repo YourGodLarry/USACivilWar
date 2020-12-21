@@ -1,0 +1,22 @@
+
+state={
+	id=111
+	name="Lancaster"
+history = {
+owner = PEN
+add_core_of = PEN
+victory_points = { 6116 3 }
+victory_points = { 8008 5 }
+victory_points = { 8056 10 }
+		buildings = {
+			infrastructure = 6
+            industrial_complex =1
+			}
+}
+	provinces={
+		171 1418 3755 5791 6116 8004 8008 8023 8033 8056
+	}
+	manpower=456198
+	state_category = town
+	buildings_max_level_factor=1.000
+}

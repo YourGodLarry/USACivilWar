@@ -1,0 +1,9 @@
+state={
+	id=233
+	name="Laredo"
+	provinces={
+		1375 3430 3613 3893 4277 5200 5330 6483 9944 9961 9968 9974 9981 9986 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

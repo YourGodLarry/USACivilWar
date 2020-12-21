@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=29
+	name="North Saint Lawrence"
+	provinces={
+		10707 11044 11070 11072 11146 11362 11488 11502 11585 11931 11966 12113 12218 12357 12370 12421 12430 12446 12536 12538 12549 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

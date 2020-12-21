@@ -1,0 +1,9 @@
+state={
+	id=102
+	name="Newark"
+	provinces={
+		1624 6084 6310 7836 7895 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

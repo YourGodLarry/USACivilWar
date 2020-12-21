@@ -1,0 +1,16 @@
+state={
+	id=82
+	name="Pittsfield"
+
+history = {
+owner = NEL
+add_core_of = NEL
+}
+
+
+	provinces={
+		492 2786 4840 5637 6250 6622 7573 7588 7619 7643 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

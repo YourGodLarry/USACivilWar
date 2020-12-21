@@ -1,0 +1,10 @@
+
+state={
+	id=198
+	name="Tacoma"
+	provinces={
+		4807 7173 7179 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

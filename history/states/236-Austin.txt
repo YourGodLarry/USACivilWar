@@ -1,0 +1,9 @@
+state={
+	id=236
+	name="Austin"
+	provinces={
+		425 4244 4257 4864 6819 9696 9710 9711 9714 9726 9739 9743 9766 9770 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

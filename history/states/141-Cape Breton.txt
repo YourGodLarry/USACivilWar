@@ -1,0 +1,15 @@
+state={
+	id=141
+	name="Cape Breton"
+
+history = {
+owner = PEI
+}
+
+
+	provinces={
+		2740 3258 5501 10353 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

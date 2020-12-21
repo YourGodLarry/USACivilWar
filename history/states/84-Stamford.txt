@@ -1,0 +1,15 @@
+state={
+	id=84
+	name="Stamford"
+
+history = {
+owner = NEL
+}
+
+
+	provinces={
+		903 4186 7754 7779 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

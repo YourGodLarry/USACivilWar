@@ -1,0 +1,8 @@
+supply_area={
+	id=45
+	name="Santa Maria"
+	value=6
+	states={
+		47 41 
+	}
+}

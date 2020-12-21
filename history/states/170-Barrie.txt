@@ -1,0 +1,9 @@
+state={
+	id=170
+	name="Barrie"
+	provinces={
+		170 4104 5271 5699 6619 7475 7495 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

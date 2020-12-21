@@ -1,0 +1,9 @@
+state={
+	id=168
+	name="Kincardine"
+	provinces={
+		557 1474 2962 3658 4050 4671 5357 7550 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

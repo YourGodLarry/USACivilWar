@@ -1,0 +1,14 @@
+
+state={
+	id=113
+	name="Allentown"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		1422 1673 2976 3206 3961 5891 6650 7892 7913 7935 7954 7959 7970 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

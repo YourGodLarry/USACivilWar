@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=129
+	name="Charleston Bay"
+	provinces={
+		10517 10562 10602 10667 10781 10900 11177 11445 11549 11618 11733 11792 11834 11947 12030 12062 12108 12203 12211 12300 12473 12486 12639 12644 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

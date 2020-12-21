@@ -1,0 +1,9 @@
+state={
+	id=242
+	name="Big Bend"
+	provinces={
+		60 61 391 1080 1917 2189 2973 3357 4460 4543 4559 9566 9605 9716 9756 9758 9820 9838 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

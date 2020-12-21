@@ -1,0 +1,9 @@
+state={
+	id=194
+	name="Seattle"
+	provinces={
+		1575 3894 6541 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

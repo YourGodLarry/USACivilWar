@@ -1,0 +1,9 @@
+state={
+	id=165
+	name="Saint-Jean"
+	provinces={
+		156 2592 4441 6170 6771 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

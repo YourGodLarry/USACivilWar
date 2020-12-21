@@ -1,0 +1,8 @@
+supply_area={
+	id=23
+	name="West Newfoundland"
+	value=6
+	states={
+		59 66 67 64 63 62 
+	}
+}

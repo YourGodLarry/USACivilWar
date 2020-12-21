@@ -1,0 +1,9 @@
+state={
+	id=180
+	name="Eugene"
+	provinces={
+		30 502 5199 7317 7321 7348 7354 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

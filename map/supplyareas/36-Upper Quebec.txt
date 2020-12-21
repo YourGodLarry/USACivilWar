@@ -1,0 +1,8 @@
+supply_area={
+	id=36
+	name="Upper Quebec"
+	value=0
+	states={
+		273 
+	}
+}

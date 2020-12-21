@@ -1,0 +1,9 @@
+state={
+	id=42
+	name="Modesto"
+	provinces={
+		2293 2312 3005 3015 3712 3797 4374 5150 5204 5625 5776 5786 8176 8235 8256 8259 8306 8335 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

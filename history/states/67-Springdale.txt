@@ -1,0 +1,17 @@
+state={
+	id=67
+	name="Springdale"
+
+history = {
+owner = NFL
+}
+
+
+
+
+	provinces={
+		528 1178 2029 2659 10293 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

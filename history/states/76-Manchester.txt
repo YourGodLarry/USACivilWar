@@ -1,0 +1,23 @@
+state={
+	id=76
+	name="Manchester"
+
+history = {
+owner = NEL
+add_core_of = NEL
+			victory_points = { 7513 20 }
+			victory_points = { 4239 5 }
+	buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+}
+}
+
+
+	provinces={
+		3345 3472 4239 5964 6325 6784 7427 7465 7498 7513 
+	}
+	manpower=645129
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

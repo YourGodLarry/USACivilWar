@@ -1,0 +1,9 @@
+state={
+	id=189
+	name="Baker City"
+	provinces={
+		283 1016 1991 4416 7355 7402 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

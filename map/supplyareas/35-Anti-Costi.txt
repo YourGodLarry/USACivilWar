@@ -1,0 +1,8 @@
+supply_area={
+	id=35
+	name="Anti-Costi"
+	value=3
+	states={
+		149 
+	}
+}

@@ -1,0 +1,16 @@
+state={
+	id=137
+	name="Saint-Michel-du-Squatec"
+
+	history = {     
+	owner = ACD
+	}
+
+
+
+	provinces={
+		111 154 1981 3622 5008 5087 5903 5928 6450 6509 7105 7122 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=156
+	name="Dorchester"
+	history = {
+	owner = DEL
+	add_core_of = DEL
+	victory_points = { 8279 5 }
+		buildings = {
+			infrastructure = 5
+			}
+	}
+	provinces={
+		3312 4870 5663 6754 8264 8277 8279 8305 8337 
+	}
+	manpower=198976
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

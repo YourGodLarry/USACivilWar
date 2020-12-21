@@ -1,0 +1,8 @@
+supply_area={
+	id=50
+	name="Oregon Valley"
+	value=10
+	states={
+		180 177 174 184 
+	}
+}

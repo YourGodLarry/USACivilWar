@@ -1,0 +1,9 @@
+state={
+	id=153
+	name="North Montreal"
+	provinces={
+		2394 5631 7305 7320 7329 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

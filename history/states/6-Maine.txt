@@ -1,0 +1,43 @@
+
+state={
+	id=6
+	name="Portland"
+
+history = {
+owner = NEL
+add_core_of = NEL
+
+
+		victory_points = { 5320 20 }
+
+		victory_points = { 7398 10 }
+			victory_points = { 5650 3 }
+					victory_points = { 1867 5 }
+						victory_points = { 6842 1 }
+	buildings = {
+			infrastructure = 11
+			air_base = 5
+			dockyard = 2
+			5320 = {
+				naval_base = 5
+			}
+			7398 = {
+				naval_base = 3
+			}
+						5650 = {
+				naval_base = 10
+			}
+
+
+
+}
+}
+
+
+	provinces={
+		1867 3039 4109 5320 5650 5822 6059 6842 7372 7398 7400 7406 
+	}
+	manpower=580978
+		state_category = city
+	buildings_max_level_factor=1.000
+}

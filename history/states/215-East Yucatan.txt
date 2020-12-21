@@ -1,0 +1,19 @@
+state={
+	id=215
+	name="East Yucatan"
+
+
+	history={
+		owner = MEX
+
+	}
+
+
+
+
+	provinces={
+		1751 1964 2137 2225 3440 4133 4716 5255 6321 10205 10218 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

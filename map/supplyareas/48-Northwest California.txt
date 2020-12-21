@@ -1,0 +1,8 @@
+supply_area={
+	id=48
+	name="Northwest California"
+	value=3
+	states={
+		53 
+	}
+}

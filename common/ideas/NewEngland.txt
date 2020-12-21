@@ -1,0 +1,198 @@
+ideas = {
+
+	country = {
+
+
+
+
+
+
+		newengland_towns = {
+			picture = newengland_towns
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				Libertarian_drift = 0.01
+				Conservative_drift = 0.01
+				production_speed_buildings_factor = 0.1
+				consumer_goods_factor = 0.05
+			}
+		}
+
+		newengland_towns_1 = {
+			picture = newengland_towns_1
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				production_speed_buildings_factor = -0.1
+				consumer_goods_factor = -0.05
+				stability_factor = -0.05
+				Libertarian_drift = -0.01
+				Conservative_drift = -0.01
+			}
+}
+
+
+		newengland_towns_2 = {
+			picture = newengland_towns_1
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				Conservative_drift = 0.01
+				Libertarian_drift = 0.02
+				communism_drift = 0.01
+				fascism_drift = -0.01
+				Larryist_drift = -0.01
+
+				production_speed_buildings_factor = 0.2
+				consumer_goods_factor = 0.1
+			}
+		}
+
+
+
+
+
+
+
+
+
+
+		bostonandmaine = {
+			picture = bostonandmaine
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				Libertarian_drift = -0.02
+				consumer_goods_factor = 0.03
+				production_speed_infrastructure_factor = 0.15
+			}
+		}
+
+
+
+
+		fireside_chats = {
+			picture = fireside_chats
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_weekly = 0.005
+
+			}
+		}
+
+
+
+
+
+				aroostook_dev_plan = {
+			picture = aroostook_dev_plan
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+		}
+
+
+
+
+
+
+
+				autonomy_act = {
+			picture = autonomy_act
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				Libertarian_drift = 0.02
+				compliance_gain = 0.2
+				resistance_target = -0.1
+			}
+		}
+
+
+
+
+
+
+
+
+				avangridbad = {
+			picture = avangridbad
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				production_speed_infrastructure_factor = -0.15
+			}
+		}

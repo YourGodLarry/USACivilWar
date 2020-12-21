@@ -1,0 +1,9 @@
+state={
+	id=41
+	name="Salinas"
+	provinces={
+		1176 1553 3691 3926 3975 4318 4722 5336 5827 6212 6221 8309 8318 8367 8368 8384 8422 8452 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

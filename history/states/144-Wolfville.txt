@@ -1,0 +1,15 @@
+state={
+	id=144
+	name="Wolfville"
+
+history = {
+owner = PEI
+}
+
+
+	provinces={
+		1400 2214 7202 7215 7217 7224 7228 7238 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

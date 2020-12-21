@@ -1,0 +1,32 @@
+capital = 136
+
+oob = "ACD_1936"
+
+
+
+
+set_politics = {
+	ruling_party = Conservative
+	last_election = "1934.7.1"
+	election_frequency = 72
+	elections_allowed = yes
+}
+set_popularities = {
+    Libertarian = 22
+	Conservative = 52
+	Larryism = 8
+	fascism = 4
+	communism = 4
+	neutrality = 10
+}
+
+create_country_leader = {
+	name = "Alice Rochambeau"
+	desc = "POLITICS_Alice_Rochambeau_DESC"
+	picture = "Portrait_Acadie_Alice_Rochambeau.tga"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}

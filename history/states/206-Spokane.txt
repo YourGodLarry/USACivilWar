@@ -1,0 +1,9 @@
+state={
+	id=206
+	name="Spokane"
+	provinces={
+		2950 2989 3395 5551 7196 7205 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

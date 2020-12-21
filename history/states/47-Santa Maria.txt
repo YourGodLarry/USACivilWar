@@ -1,0 +1,9 @@
+state={
+	id=47
+	name="Santa Maria"
+	provinces={
+		123 135 1311 3381 3480 4698 5187 5220 5351 5601 5781 6151 6353 6790 8483 8516 8586 8587 8618 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

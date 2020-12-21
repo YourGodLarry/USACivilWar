@@ -1,0 +1,9 @@
+state={
+	id=187
+	name="Burns"
+	provinces={
+		777 1860 1877 2579 3178 5862 6595 7454 7501 7503 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

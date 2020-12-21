@@ -1,0 +1,9 @@
+state={
+	id=272
+	name="Blanc-Sablon"
+	provinces={
+		142 431 726 2212 3064 3878 6918 6939 10281 10282 10283 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

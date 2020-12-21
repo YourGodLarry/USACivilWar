@@ -1,0 +1,29 @@
+state={
+	id=130
+	name="Fredericton"
+
+history = {
+owner = PEI
+add_core_of = PEI
+add_core_of = ACD
+
+		victory_points = { 7216 10 }
+		victory_points = { 7232 5 }
+		victory_points = { 2710 5 }
+
+	buildings = {
+			infrastructure = 2 
+
+
+}
+
+}
+
+
+	provinces={
+		2710 3661 4759 7216 7232 7235 
+	}
+	manpower=256123
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

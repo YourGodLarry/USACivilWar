@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=8
+	name="Massachusetts Bay"
+	provinces={
+		10764 10912 11636 11701 11758 12588 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

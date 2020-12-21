@@ -1,0 +1,9 @@
+strategic_region={
+	id=50
+	name="Rocky Harbour"
+	provinces={
+		382 972 1327 1676 2098 2911 3269 4401 4516 6910 6927 6978 10252 10272 10274 10285 10298 12860 
+	}
+	weather={
+	}
+}

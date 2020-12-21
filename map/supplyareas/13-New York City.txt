@@ -1,0 +1,8 @@
+supply_area={
+	id=13
+	name="New York City"
+	value=15
+	states={
+		4 
+	}
+}

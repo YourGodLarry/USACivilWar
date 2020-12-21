@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=30
+	name="South Saint Lawrence"
+	provinces={
+		10521 10544 10622 10694 10905 11143 11235 11313 11536 11691 11741 12263 12264 12271 12547 12555 12558 12561 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

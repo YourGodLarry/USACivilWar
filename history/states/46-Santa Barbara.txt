@@ -1,0 +1,9 @@
+state={
+	id=46
+	name="Santa Barbara"
+	provinces={
+		387 657 897 1463 2195 3485 3720 3779 4226 4556 5222 5540 5848 5969 6737 6810 8829 8843 8863 8894 8913 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

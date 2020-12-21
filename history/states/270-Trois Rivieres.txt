@@ -1,0 +1,9 @@
+state={
+	id=270
+	name="Trois Rivieres"
+	provinces={
+		883 1434 2397 2410 3287 4041 4380 4753 5251 7247 7261 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

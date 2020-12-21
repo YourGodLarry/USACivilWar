@@ -1,0 +1,9 @@
+state={
+	id=138
+	name="Quebec"
+	provinces={
+		4218 5815 5829 6549 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

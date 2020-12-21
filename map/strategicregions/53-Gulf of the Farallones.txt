@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=53
+	name="Gulf of the Farallones"
+	provinces={
+		10645 10854 10924 11011 11382 11390 11475 11493 11553 11971 12134 12230 12251 12427 12605 12610 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

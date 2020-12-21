@@ -1,0 +1,9 @@
+state={
+	id=162
+	name="Chatham-Kent"
+	provinces={
+		2573 4486 5238 6832 7732 7809 7848 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

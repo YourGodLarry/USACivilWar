@@ -1,0 +1,8 @@
+supply_area={
+	id=21
+	name="Mid Atlantic"
+	value=10
+	states={
+		109 108 1 157 11 156 10 154 18 14 
+	}
+}

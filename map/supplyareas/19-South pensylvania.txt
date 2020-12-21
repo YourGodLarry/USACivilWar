@@ -1,0 +1,8 @@
+supply_area={
+	id=19
+	name="South Pennsylvania"
+	value=8
+	states={
+		111 114 123 117 121 119 124 
+	}
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=20
+	name="North Pennsylvania"
+	value=7
+	states={
+		120 13 125 122 118 116 
+	}
+}

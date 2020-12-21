@@ -1,0 +1,9 @@
+state={
+	id=232
+	name="Corpse Christi"
+	provinces={
+		1903 2241 2816 3142 3253 3299 3525 3620 4242 4849 5293 9936 9941 9942 9943 9948 9963 10419 10420 10421 10427 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

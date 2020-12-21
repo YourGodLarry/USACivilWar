@@ -1,0 +1,26 @@
+capital = 88
+
+oob = "PLT_1936"
+
+
+
+
+set_politics = {
+	ruling_party = Plutocratic
+	last_election = "1934.7.1"
+	election_frequency = 72
+	elections_allowed = yes
+}
+set_popularities = {
+    Plutocratic = 100
+}
+
+create_country_leader = {
+	name = "Alice Rochambeau"
+	picture = "Portrait_Acadie_Alice_Rochambeau.tga"
+	expire = "1965.1.1"
+	ideology = plutocracy
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,14 @@
+
+state={
+	id=119
+	name="State College"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		2267 2315 3194 3767 4360 4404 4800 5275 7953 7993 8015 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

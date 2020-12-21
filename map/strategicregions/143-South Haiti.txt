@@ -1,0 +1,9 @@
+strategic_region={
+	id=143
+	name="South Haiti"
+	provinces={
+		13092 
+	}
+	weather={
+	}
+}

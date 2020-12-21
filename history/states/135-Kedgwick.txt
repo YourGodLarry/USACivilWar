@@ -1,0 +1,16 @@
+state={
+	id=135
+	name="Kedgwick"
+
+	history = {     
+	owner = ACD
+	}
+
+
+
+	provinces={
+		56 193 375 952 2187 2588 4653 5283 5422 7107 7119 7129 7149 10339 10342 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

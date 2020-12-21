@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=126
+	name="Apalachee Bay"
+	provinces={
+		10542 10870 11253 11400 11423 11470 11496 11514 11525 11537 11704 11849 11868 12242 12465 12658 12664 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

@@ -1,0 +1,9 @@
+state={
+	id=4
+	name="New York City"
+	provinces={
+		5449 7784 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

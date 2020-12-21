@@ -1,0 +1,17 @@
+state={
+	id=65
+	name="Clarenville"
+
+history = {
+owner = NFL
+}
+
+
+
+
+	provinces={
+		516 946 976 1077 2145 2511 2633 6969 6976 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=52
+	name="Yosemite"
+	provinces={
+		1271 1617 1708 1725 1743 1823 2199 2982 3708 4821 4855 5146 5409 5866 6521 6801 8029 8071 8097 8156 8162 8177 8206 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

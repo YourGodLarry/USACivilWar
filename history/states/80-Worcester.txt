@@ -1,0 +1,26 @@
+state={
+	id=80
+	name="Worcester"
+
+history = {
+owner = NEL
+add_core_of = NEL
+		victory_points = { 7582 20 }
+		victory_points = { 6189 2 }
+		victory_points = { 7563 5 }
+
+	buildings = {
+			infrastructure = 2 
+
+
+}
+}
+
+
+	provinces={
+		1832 1995 2183 4117 4196 6189 7563 7582 7583 7601 
+	}
+	manpower=415467
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

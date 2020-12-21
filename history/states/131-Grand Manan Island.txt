@@ -1,0 +1,15 @@
+state={
+	id=131
+	name="Grand Manan Island"
+
+history = {
+owner = PEI
+}
+
+
+	provinces={
+		10368 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

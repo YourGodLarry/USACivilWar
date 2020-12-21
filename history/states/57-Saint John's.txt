@@ -1,0 +1,15 @@
+state={
+	id=57
+	name="Saint John's"
+
+history = {
+owner = NFL
+}
+
+
+	provinces={
+		2229 3716 3820 4644 5925 6427 6991 6994 7011 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

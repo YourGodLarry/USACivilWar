@@ -1,0 +1,17 @@
+state={
+	id=230
+	name="West Yucatan"
+
+	history={
+		owner = MEX
+
+	}
+
+
+
+	provinces={
+		3137 3645 4368 4844 5302 5344 5368 5857 6433 6454 6772 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,14 @@
+
+state={
+	id=13
+	name="Mansfield"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		2695 4141 4261 5610 5762 5856 7746 7764 7773 7775 7833 7859
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=32
+	name="Saint Lawrence Valley"
+	value=10
+	states={
+		172 171 173 164 152 151 150 270 153 
+	}
+}

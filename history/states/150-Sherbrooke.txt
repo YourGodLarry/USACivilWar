@@ -1,0 +1,9 @@
+state={
+	id=150
+	name="Sherbrooke"
+	provinces={
+		248 540 679 1760 3826 4295 4497 4948 5304 6121 6335 6656 7255 7310 7314 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

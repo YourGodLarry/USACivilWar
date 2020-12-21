@@ -1,0 +1,13 @@
+state={
+	id=117
+	name="Pittsburgh"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		273 1313 4877 5436 6083 6261 6424 8058 8117 8141 8144 8145 8170 8173 8200 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

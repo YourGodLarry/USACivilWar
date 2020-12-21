@@ -1,0 +1,9 @@
+state={
+	id=179
+	name="Medford"
+	provinces={
+		2301 2618 5130 5623 7492 7516 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

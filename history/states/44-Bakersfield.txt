@@ -1,0 +1,10 @@
+
+state={
+	id=44
+	name="Bakersfield"
+	provinces={
+		230 918 1851 2466 3126 3754 4180 4265 4724 4854 5331 5401 5644 6667 8595 8615 8662 8697 8736 8776 8802 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

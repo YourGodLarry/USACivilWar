@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=132
+	name="Galveston Bay"
+	provinces={
+		10603 10718 10888 10993 11073 11166 11267 11366 11633 11639 11672 11809 11899 11946 12027 12039 12041 12102 12199 12221 12225 12286 12343 12668 12677 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

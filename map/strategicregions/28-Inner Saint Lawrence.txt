@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=28
+	name="Inner Saint Lawrence"
+	provinces={
+		10761 10811 11266 11513 11533 12068 12243 12396 12481 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

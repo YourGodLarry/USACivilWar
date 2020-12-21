@@ -1,0 +1,9 @@
+state={
+	id=58
+	name="New Paris"
+	provinces={
+		10317 10319 10320 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

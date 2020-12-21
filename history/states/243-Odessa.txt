@@ -1,0 +1,9 @@
+state={
+	id=243
+	name="Odessa"
+	provinces={
+		231 504 617 635 1848 2190 3914 4638 6296 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

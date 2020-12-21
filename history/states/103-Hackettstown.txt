@@ -1,0 +1,9 @@
+state={
+	id=103
+	name="Hackettstown"
+	provinces={
+		876 1014 3513 7844 7852 7919 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

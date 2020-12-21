@@ -1,0 +1,9 @@
+state={
+	id=104
+	name="Cherry Hill"
+	provinces={
+		5384 8002 8034 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

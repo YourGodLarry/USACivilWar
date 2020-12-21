@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=127
+	name="Florida Keys"
+	provinces={
+		10663 10763 10849 11004 11080 11140 11227 11521 11819 11876 11944 12000 12048 12219 12235 12314 12317 12330 12503 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

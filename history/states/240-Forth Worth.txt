@@ -1,0 +1,9 @@
+state={
+	id=240
+	name="Fort Worth"
+	provinces={
+		2745 3673 3973 4224 6561 6698 9408 9421 9470 9489 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

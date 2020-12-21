@@ -1,0 +1,16 @@
+state={
+	id=132
+	name="Miramichi"
+
+	history = {     
+	owner = ACD
+	}
+
+
+
+	provinces={
+		1061 2467 3122 6138 7128 7142 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

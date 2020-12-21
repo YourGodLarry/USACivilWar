@@ -1,0 +1,9 @@
+state={
+	id=186
+	name="Klamath Falls"
+	provinces={
+		366 372 524 3862 4377 6797 7436 7494 7508 7538 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=136
+	name="Gaspe"
+
+history = {     
+	owner = ACD
+	}
+
+	
+	provinces={
+		1007 2252 3007 3399 5640 6685 7068 7070 7084 7089 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

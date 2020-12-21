@@ -1,0 +1,931 @@
+﻿focus_tree = {
+	id = newengland_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = NEL
+		}
+	}
+	
+	
+
+
+
+
+
+
+			focus = {
+		id = e2056
+		icon = GFX_focus_election
+		x = 12
+		y = 0
+
+
+		cost = 0.1
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		date > 2056.04.22
+		}
+		
+		bypass = {
+		date > 2056.04.22
+
+		}
+
+		available_if_capitulated = yes
+		search_filters = {FOCUS_FILTER_POLITICAL}
+		completion_reward = {
+		}
+	}
+
+
+
+
+
+
+
+
+		focus = {
+		id = twa
+		icon = GFX_focus_twa
+		x = 19
+		y = 1
+
+
+		cost = 5
+mutually_exclusive = { focus = toa }
+prerequisite = { focus = e2056 }
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		available_if_capitulated = yes
+		search_filters = {FOCUS_FILTER_POLITICAL}
+		completion_reward = {
+			add_political_power = 50
+		}
+	}
+
+
+
+
+
+
+		focus = {
+		id = arap
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = twa }
+
+		x = 20
+		y = 2
+		cost = 1
+				available = {
+			controls_state = 68
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+		}
+		}
+
+
+
+
+		focus = {
+		id = arsp
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = arap }
+
+		search_filters = {FOCUS_FILTER_INDUSTRY}
+
+		x = 20
+		y = 3
+		cost = 5
+				available = {
+			controls_state = 68
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+		68 = {
+		add_resource = {
+		type = steel
+		amount = 12
+		}
+		}
+		}
+		}
+
+
+
+				focus = {
+		id = ahs
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = arsp }
+
+		x = 20
+		y = 4
+		cost = 5
+				available = {
+			controls_state = 68
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		search_filters = {FOCUS_FILTER_INDUSTRY}
+		completion_reward = {
+
+
+				68 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 4
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 4
+						instant_build = yes
+					}
+				}
+				}
+				}
+
+
+		focus = {
+		id = ara
+		icon = GFX_focus_autonomy_act
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = ahs }
+
+		x = 20
+		y = 5
+		cost = 10
+				available = {
+			controls_state = 68
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+        add_ideas = autonomy_act
+		}
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			focus = {
+		id = toa
+		icon = GFX_focus_toa
+		x = 5
+		y = 1
+
+
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+mutually_exclusive = { focus = twa }
+prerequisite = { focus = e2056 }
+
+		available_if_capitulated = yes
+		search_filters = {FOCUS_FILTER_POLITICAL}
+		completion_reward = {
+			set_politics = { ruling_party = Conservative }
+			add_popularity = { ideology = Conservative popularity = 0.134 }
+		}
+	}
+
+
+
+
+
+		focus = {
+		id = arip
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = toa }
+
+		x = 4
+		y = 2
+		cost = 1
+				available = {
+			controls_state = 68
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+		add_timed_idea = { idea = aroostook_dev_plan days = 600
+		}
+		}
+		}
+
+
+
+
+
+
+
+
+
+		focus = {
+		id = arrw
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = arip }
+
+		x = 4
+		y = 3
+		cost = 5
+				available = {
+			controls_state = 68
+			controls_state = 70
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		search_filters = {FOCUS_FILTER_INDUSTRY}
+		completion_reward = {
+
+
+				68 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 2
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 2
+						instant_build = yes
+					}
+				}
+
+				70 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 2
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 2
+						instant_build = yes
+					}
+				}
+				}
+				}
+
+
+
+
+
+
+
+
+						focus = {
+		id = arid
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = arrw }
+
+		x = 4
+		y = 4
+		cost = 5
+				available = {
+			controls_state = 68
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		search_filters = {FOCUS_FILTER_INDUSTRY}
+		completion_reward = {
+
+
+				68 = {
+					limit = { 
+						free_building_slots = {
+							building = industrial_complex
+							size > 1
+						}
+					}
+					add_building_construction = {
+						type = industrial_complex
+						level = 1
+						instant_build = yes
+					}
+				}
+				}
+				}
+
+
+
+
+
+						focus = {
+		id = ftj
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = arid }
+
+		x = 4
+		y = 5
+		cost = 10
+				available = {
+			controls_state = 68
+			not = {
+			has_idea = aroostook_dev_plan
+			}
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		search_filters = {FOCUS_FILTER_POLITICAL}
+		completion_reward = {
+		add_state_core = 68
+
+
+				68 = {
+					limit = { 
+						free_building_slots = {
+							building = industrial_complex
+							size > 1
+						}
+					}
+					add_building_construction = {
+						type = industrial_complex
+						level = 1
+						instant_build = yes
+					}
+				}
+				}
+				}
+
+
+
+
+
+
+
+				focus = {
+		id = "net1"
+		icon = GFX_focus_net1
+		x = 12
+		y = 3
+
+
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+prerequisite = { focus = twa focus = toa }
+mutually_exclusive = { focus = net2 }
+mutually_exclusive = { focus = net3 }
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_political_power = 50
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					focus = {
+		id = net2
+		icon = GFX_focus_net2
+		x = 10
+		y = 3
+
+
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+prerequisite = { focus = twa focus = toa }
+mutually_exclusive = { focus = net1 }
+mutually_exclusive = { focus = net3 }
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			swap_ideas = {
+			remove_idea = newengland_towns
+			add_idea = newengland_towns_1
+			}
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+					focus = {
+		id = "net3"
+		icon = GFX_focus_net3
+		x = 14
+		y = 3
+		cost = 5
+
+
+		ai_will_do = {
+			factor = 1
+		}
+prerequisite = { focus = twa focus = toa }
+mutually_exclusive = { focus = net1 }
+mutually_exclusive = { focus = net2 }
+
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			swap_ideas = {
+			remove_idea = newengland_towns
+			add_idea = newengland_towns_2
+			}
+		}
+	}
+
+
+
+
+
+
+
+
+						focus = {
+		id = bandm
+		icon = GFX_focus_generic_self_management
+		x = 11
+		y = 4
+		cost = 5
+
+
+		ai_will_do = {
+			factor = 1
+		}
+prerequisite = { focus = net1 focus = net2 focus = net3 }
+
+
+		available = {
+
+		}
+		
+		bypass = {
+        
+		}
+
+		available_if_capitulated = yes
+		search_filters = {FOCUS_FILTER_INDUSTRY}
+		completion_reward = {
+add_ideas = bostonandmaine
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	focus = {
+		id = der
+		icon = GFX_focus_generic_self_management
+prerequisite = { focus = net1 focus = net2 focus = net3 }
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+
+		x = 13
+		y = 4
+		cost = 2
+				available = {
+			controls_state = 3
+			controls_state = 77
+			controls_state = 8
+			controls_state = 6
+			controls_state = 72
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		search_filters = {FOCUS_FILTER_INDUSTRY}
+		completion_reward = {
+
+
+				3 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 2
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 2
+						instant_build = yes
+					}
+				}
+							77 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 2
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 2
+						instant_build = yes
+					}
+				}
+			
+							8 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 2
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 2
+						instant_build = yes
+					}
+				}
+			
+							6 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 2
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 2
+						instant_build = yes
+					}
+				}
+			
+							72 = {
+					limit = { 
+						free_building_slots = {
+							building = infrastructure
+							size > 2
+						}
+					}
+					add_building_construction = {
+						type = infrastructure
+						level = 2
+						instant_build = yes
+					}
+				}
+			}
+			}
+		
+
+
+
+
+
+
+
+
+		focus = {
+		id = fsc
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = toa }
+
+		x = 6
+		y = 3
+		cost = 5
+				available = {
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+		add_timed_idea = { idea = fireside_chats days = 730
+		}
+		}
+		}
+
+
+
+
+
+
+
+
+						focus = {
+		id = esti
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = bandm }
+
+		x = 8
+		y = 5
+		cost = 5
+				available = {
+			controls_state = 6
+			controls_state = 3
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		search_filters = {FOCUS_FILTER_POLITICAL}
+		completion_reward = {
+
+
+				6 = {
+add_resource = {
+type = steel
+amount = 12
+	
+}
+				}
+								3 = {
+add_resource = {
+type = steel
+amount = 16
+	
+}
+				}
+				}
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										focus = {
+		id = norest
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = twa focus = toa }
+
+		x = 12
+		y = 2
+		cost = 5
+				available = {
+				date > 2056.12.15
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}
+
+
+
+         										focus = {       
+		id = addinfra
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = toa }
+
+		x = 1
+		y = 2
+		cost = 5
+				available = {
+				date > 2056.12.15
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}
+
+
+
+
+
+
+
+
+
+														focus = {
+		id = natavangrid
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = norest }
+		prerequisite = { focus = addinfra }
+		mutually_exclusive = { focus = bailavangrid }
+
+		x = 2
+		y = 3
+		cost = 5
+				available = {
+				date > 2056.12.15
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}
+
+														focus = {
+		id = bailavangrid
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = norest }
+		prerequisite = { focus = addinfra }
+		mutually_exclusive = { focus = natavangrid }
+
+		x = 0
+		y = 3
+		cost = 5
+				available = {
+				date > 2056.12.15
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}

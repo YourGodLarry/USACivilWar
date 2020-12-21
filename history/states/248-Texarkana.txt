@@ -1,0 +1,9 @@
+state={
+	id=248
+	name="Texarkana"
+	provinces={
+		3008 3226 3271 3618 6773 9402 9406 9423 9437 9447 9451 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

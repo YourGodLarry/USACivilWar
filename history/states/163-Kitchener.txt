@@ -1,0 +1,9 @@
+state={
+	id=163
+	name="Kitchener"
+	provinces={
+		669 2160 2785 3895 4014 4921 5801 6542 7706 7723 10392 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

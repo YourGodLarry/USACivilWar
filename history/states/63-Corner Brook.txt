@@ -1,0 +1,17 @@
+state={
+	id=63
+	name="Corner Brook"
+
+history = {
+owner = NFL
+}
+
+
+
+
+	provinces={
+		1327 2098 6978 10298 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

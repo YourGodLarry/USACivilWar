@@ -1,0 +1,9 @@
+state={
+	id=184
+	name="Hood River"
+	provinces={
+		3138 3662 5061 6174 6184 6633 6740 7316 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

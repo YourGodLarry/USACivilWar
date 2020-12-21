@@ -1,0 +1,9 @@
+state={
+	id=173
+	name="Smith Falls"
+	provinces={
+		682 1049 2399 3273 4544 5836 6453 7392 7405 7416 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

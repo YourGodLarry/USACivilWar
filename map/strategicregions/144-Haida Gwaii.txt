@@ -1,0 +1,9 @@
+strategic_region={
+	id=144
+	name="Haida Gwaii Island"
+	provinces={
+		438 4535 4566 5457 10266 10275 
+	}
+	weather={
+	}
+}

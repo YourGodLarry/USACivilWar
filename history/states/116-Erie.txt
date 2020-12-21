@@ -1,0 +1,13 @@
+state={
+	id=116
+	name="Erie"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		3247 3559 3889 4294 4932 5219 7800 7823 7850 7884 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

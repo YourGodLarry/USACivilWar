@@ -1,0 +1,8 @@
+supply_area={
+	id=43
+	name="California Valley"
+	value=0
+	states={
+		44 45 42 39 54 
+	}
+}

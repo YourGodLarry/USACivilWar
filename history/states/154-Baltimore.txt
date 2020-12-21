@@ -1,0 +1,10 @@
+
+state={
+	id=154
+	name="Baltimore"
+	provinces={
+		346 1391 1576 2263 3503 3931 4389 5234 6718 6828 8183 8205 8221 8242 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

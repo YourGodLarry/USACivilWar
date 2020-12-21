@@ -1,0 +1,29 @@
+state={
+	id=68
+	name="Aroostook"
+
+history = {
+owner = NEL
+add_core_of = ARS
+#add_core_of = NEL
+	victory_points = { 4834 1 }
+		victory_points = { 7157 3 }
+			victory_points = { 6197 3 }
+				victory_points = { 6467 5 }
+					buildings = {
+			infrastructure = 1
+			air_base = 2
+
+
+}
+
+}
+
+
+	provinces={
+		831 1021 1109 1697 3467 3470 4043 4834 6197 6208 6467 7157 7158 7191 7203 
+	}
+	manpower=68975
+	state_category = rural
+	buildings_max_level_factor=1.500
+}

@@ -1,0 +1,10 @@
+
+state={
+	id=38
+	name="Stockton"
+	provinces={
+		649 1444 4876 6548 8146 8214 8215 8236 8237 8255 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

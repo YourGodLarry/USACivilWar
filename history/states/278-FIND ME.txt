@@ -1,0 +1,9 @@
+state={
+	id=278
+	name="FIND ME"
+	provinces={
+		5014 7274 10463
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

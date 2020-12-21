@@ -1,0 +1,18 @@
+
+state={
+	id=64
+	name="Rocky Harbour"
+
+history = {
+owner = NFL
+}
+
+
+
+
+	provinces={
+		382 972 3269 4401 4516 10285 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

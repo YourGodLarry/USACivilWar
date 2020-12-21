@@ -1,0 +1,206 @@
+
+division_template = {
+	name = "Infantry Brigade"				
+
+	division_names_group = DEL_GAR_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 0 y = 4 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+		infantry = { x = 1 y = 4 }
+	}
+	priority = 10
+}
+
+
+
+
+
+division_template = {
+	name = "Militia"				
+
+	division_names_group = DEL_GAR_01
+
+	regiments = {
+		Militia = { x = 0 y = 0 }
+		Militia = { x = 0 y = 1 }
+		Militia = { x = 0 y = 2 }
+		Militia = { x = 0 y = 3 }
+		Militia = { x = 0 y = 4 }
+	}
+	priority = 1
+}
+units = {
+	division = {
+		name = "1st Delaware Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6457
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 0.7
+		start_experience_factor = 0.5
+
+	}
+		division = {
+		name = "2nd Delaware Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8213
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 0.7
+		start_experience_factor = 0.5
+
+	}
+		division = {
+		name = "1st Maryland Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8279
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 0.7
+		start_experience_factor = 0.5
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	division = {
+		name = "1st Dover Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8213
+		division_template = "Militia"
+		start_equipment_factor = 0.7
+
+	}
+	division = {
+		name = "1st Georgetown Milita"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8283
+		division_template = "Militia"
+		start_equipment_factor = 0.7
+
+	}
+	division = {
+		name = "Cape Charles Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8505
+		division_template = "Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "Elkton Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8136
+		division_template = "Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "Salisbury Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8350
+		division_template = "Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "Middletown Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 8168
+		division_template = "Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "1st Wilmington Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6457
+		division_template = "Militia"
+		start_equipment_factor = 0.6
+
+	}
+		division = {
+		name = "2nd Wilmington Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6457
+		division_template = "Militia"
+		start_equipment_factor = 0.6
+
+	}
+}

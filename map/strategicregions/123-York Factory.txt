@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=123
+	name="York Factory"
+	provinces={
+		10479 10715 10790 10826 11114 11232 11422 11534 11590 11603 11626 11844 11871 11888 12008 12053 12445 12510 12513 12517 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

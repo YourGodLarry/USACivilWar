@@ -1,0 +1,8 @@
+supply_area={
+	id=15
+	name="Upstate New York"
+	value=7
+	states={
+		94 95 93 98 12 99 126 
+	}
+}

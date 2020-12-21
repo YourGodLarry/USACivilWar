@@ -1,0 +1,26 @@
+state={
+	id=81
+	name="Springfield"
+
+history = {
+owner = NEL
+add_core_of = NEL
+victory_points = { 7607 7 } 
+victory_points = { 7602 5 }
+victory_points = { 1570 5 }
+	buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+
+}
+}
+
+
+	provinces={
+		1570 3252 3330 5600 6587 7545 7599 7602 7607 
+	}
+	manpower=546845
+	buildings_max_level_factor=1.000
+	state_category = city
+}

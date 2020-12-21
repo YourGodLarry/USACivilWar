@@ -1,0 +1,9 @@
+state={
+	id=49
+	name="Palm Desert"
+	provinces={
+		169 513 697 1601 1831 2746 2891 3514 3936 4487 4548 5170 5324 5402 5930 6263 9004 9019 9044 9061 9068 9099 9100 9203 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

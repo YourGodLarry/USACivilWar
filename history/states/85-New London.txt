@@ -1,0 +1,15 @@
+state={
+	id=85
+	name="New London"
+
+history = {
+owner = NEL
+}
+
+
+	provinces={
+		406 1175 2660 5775 7685 7726 7742 7762 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

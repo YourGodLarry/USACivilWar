@@ -1,0 +1,16 @@
+state={
+	id=134
+	name="Grand Falls"
+
+	history = {     
+	owner = ACD
+	}
+
+
+
+	provinces={
+		526 801 2057 2347 4263 7188 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

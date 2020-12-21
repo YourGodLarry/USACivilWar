@@ -1,0 +1,20 @@
+state={
+	id=11
+	name="Eastern Shore"
+	history = {
+	owner = DEL
+	add_core_of = DEL
+	victory_points = { 8411 3 }
+	victory_points = { 8505 3 }
+			buildings = {
+			infrastructure = 4
+			air_base = 3
+			}
+	}
+	provinces={
+		5431 6123 8411 8486 8505 8533 
+	}
+	manpower=96326
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=38
+	name="Michigan"
+	value=6
+	states={
+		16 213 
+	}
+}

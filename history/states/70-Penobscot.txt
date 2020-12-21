@@ -1,0 +1,25 @@
+state={
+	id=70
+	name="Penobscot"
+
+history = {
+owner = NEL
+add_core_of = NEL
+victory_points = { 4749 20 }
+	buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			6055 = {
+				naval_base = 5
+			}
+}
+}
+
+
+	provinces={
+		1561 2632 3674 4129 4749 5974 6055 
+	}
+	manpower=234891
+	state_category = town
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=181
+	name="Coos Bay"
+	provinces={
+		695 1438 2736 3433 3909 6154 7323 7336 7338 7368 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

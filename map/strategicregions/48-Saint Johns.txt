@@ -1,0 +1,9 @@
+strategic_region={
+	id=48
+	name="Saint Johns"
+	provinces={
+		2229 3716 3820 4644 5925 6427 6991 6994 7011 
+	}
+	weather={
+	}
+}

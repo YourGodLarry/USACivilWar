@@ -1,0 +1,9 @@
+state={
+	id=238
+	name="Beaumont"
+	provinces={
+		1028 3231 3717 4138 4458 4470 5817 9727 9745 9752 9753 9764 9773 9778 9780 9786 9789 9805 9822 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=125
+	name="Chandeleur Sound"
+	provinces={
+		10501 10552 11007 11112 11756 11896 12119 12202 12662 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

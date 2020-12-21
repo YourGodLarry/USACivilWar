@@ -1,0 +1,23 @@
+state={
+	id=97
+	name="Bennington"
+
+history = {
+owner = NEL
+add_core_of = NEL
+victory_points = { 4666 10 }
+victory_points = { 5196 5 }
+	buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			}
+}
+
+
+	provinces={
+		4666 5196 5335 5811 7493 7544 
+	}
+	manpower=130456
+	state_category = town
+	buildings_max_level_factor=1.000
+}

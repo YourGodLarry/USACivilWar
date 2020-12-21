@@ -1,0 +1,15 @@
+state={
+	id=145
+	name="Dartmouth"
+
+history = {
+owner = PEI
+}
+
+
+	provinces={
+		3128 3176 4480 5373 7248 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=17
+	name="New Jersey"
+	value=9
+	states={
+		7 104 105 106 107 102 103 
+	}
+}

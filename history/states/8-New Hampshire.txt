@@ -1,0 +1,28 @@
+
+state={
+	id=8
+	name="Portsmouth"
+
+history = {
+owner = NEL
+add_core_of = NEL
+victory_points = { 4142 10 }
+buildings = {
+			infrastructure = 9
+			industrial_complex = 1
+			4142 = {
+				naval_base = 3
+			}
+
+
+}
+}
+
+
+	provinces={
+		4142 4813 7442 7479 
+	}
+	manpower=321765
+		state_category = large_town
+	buildings_max_level_factor=1.000
+}

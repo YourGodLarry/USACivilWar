@@ -1,0 +1,8 @@
+supply_area={
+	id=24
+	name="Prince Edward Island"
+	value=6
+	states={
+		127 
+	}
+}

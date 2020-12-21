@@ -1,0 +1,9 @@
+state={
+	id=200
+	name="Olympia"
+	provinces={
+		1026 2061 4160 7152 7159 7165 10345 10346 10347 10348 10350 10352 10355 10357 10359 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

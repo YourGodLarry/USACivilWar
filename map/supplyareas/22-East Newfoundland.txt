@@ -1,0 +1,8 @@
+supply_area={
+	id=22
+	name="East Newfoundland"
+	value=7
+	states={
+		65 57 60 61 58 
+	}
+}

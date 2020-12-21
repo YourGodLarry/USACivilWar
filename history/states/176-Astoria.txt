@@ -1,0 +1,9 @@
+state={
+	id=176
+	name="Astoria"
+	provinces={
+		133 2568 5114 6807 7229 7266 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

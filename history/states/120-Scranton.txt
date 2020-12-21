@@ -1,0 +1,13 @@
+state={
+	id=120
+	name="Scranton"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		1405 2670 3629 4076 4153 4198 4752 7778 7792 7793 7825 7835 7869 7874 7890 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

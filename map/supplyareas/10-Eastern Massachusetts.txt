@@ -1,0 +1,8 @@
+supply_area={
+	id=10
+	name="Eastern Massachusetts"
+	value=12
+	states={
+		77 3 79 78 
+	}
+}

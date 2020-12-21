@@ -1,0 +1,9 @@
+state={
+	id=201
+	name="Olympic Forest"
+	provinces={
+		1899 7127 7132 7137 7143 7146 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

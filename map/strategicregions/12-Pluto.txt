@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=12
+	name="Pluto"
+	provinces={
+		534 602 732 853 911 2692 2893 3041 3578 6418 7020 7049 7057 12763 12887 
+	}
+	weather={
+	}
+}

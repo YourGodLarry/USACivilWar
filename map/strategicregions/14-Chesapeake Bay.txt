@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=14
+	name="Chesapeake Bay"
+	provinces={
+		10577 10936 11022 11106 11481 11624 12007 12121 12613 12616 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

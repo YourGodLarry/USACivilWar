@@ -1,0 +1,9 @@
+state={
+	id=212
+	name="Colville Forest"
+	provinces={
+		6 9 91 578 2809 4248 4693 5379 5539 5741 5991 6763 7139 7147 7184 7186 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

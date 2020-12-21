@@ -1,0 +1,9 @@
+state={
+	id=51
+	name="Death Valley"
+	provinces={
+		55 81 367 1464 1470 1649 2124 2476 2540 2663 2675 3868 4652 4861 5244 5605 6176 8464 8512 8513 8575 8604 8680 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

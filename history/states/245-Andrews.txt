@@ -1,0 +1,9 @@
+state={
+	id=245
+	name="Andrews"
+	provinces={
+		495 827 2439 9487 9532 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

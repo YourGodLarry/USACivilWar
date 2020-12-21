@@ -1,0 +1,9 @@
+state={
+	id=207
+	name="Wenatchee"
+	provinces={
+		2020 2166 3302 4682 5140 5771 7208 7211 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

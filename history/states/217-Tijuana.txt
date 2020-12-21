@@ -1,0 +1,17 @@
+state={
+	id=217
+	name="Tijuana"
+
+	history={
+		owner = MEX
+
+	}
+
+
+
+	provinces={
+		2510 4631 5559 6715 6827 9255 9271 9295 9306 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

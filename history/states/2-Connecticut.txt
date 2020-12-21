@@ -1,0 +1,17 @@
+
+state={
+	id=2
+	name="Hartford"
+
+
+history = {
+owner = NEL
+}
+
+
+	provinces={
+		3912 4963 5161 5541 6575 7665 7671 7684 7689 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

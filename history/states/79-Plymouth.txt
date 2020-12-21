@@ -1,0 +1,33 @@
+state={
+	id=79
+	name="Plymouth"
+
+history = {
+owner = NEL
+add_core_of = NEL
+
+		victory_points = { 7584 5 }
+		victory_points = { 1772 3 }
+		victory_points = { 6536 3 }
+	buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			1772 = {
+				naval_base = 2
+			}
+			7584 = {
+				naval_base = 2
+			}
+
+
+}
+}
+
+
+	provinces={
+		1772 3640 5197 6536 7566 7576 7584 7596 
+	}
+	manpower=338679
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

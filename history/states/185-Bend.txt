@@ -1,0 +1,9 @@
+state={
+	id=185
+	name="Bend"
+	provinces={
+		117 674 1776 1962 2848 3995 4280 4986 5754 7359 7373 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

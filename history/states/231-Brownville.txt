@@ -1,0 +1,9 @@
+state={
+	id=231
+	name="Brownsville"
+	provinces={
+		130 1511 2395 2537 3568 4646 5592 6359 9993 9994 9997 10000 10001 10007 10012 10013 10018 10428 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

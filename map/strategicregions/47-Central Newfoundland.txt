@@ -1,0 +1,9 @@
+strategic_region={
+	id=47
+	name="Central Newfoundland"
+	provinces={
+		472 516 946 976 1077 1187 1205 2145 2209 2511 2633 6961 6969 6976 6996 7007 10300 10302 10306 10317 10319 10320 
+	}
+	weather={
+	}
+}

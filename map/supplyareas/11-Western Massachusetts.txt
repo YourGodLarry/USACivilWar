@@ -1,0 +1,8 @@
+supply_area={
+	id=11
+	name="Western Massachusetts"
+	value=10
+	states={
+		80 81 82 
+	}
+}

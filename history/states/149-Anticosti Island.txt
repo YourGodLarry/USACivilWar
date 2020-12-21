@@ -1,0 +1,9 @@
+state={
+	id=149
+	name="Anticosti"
+	provinces={
+		1126 1659 1854 2043 6432 7029 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

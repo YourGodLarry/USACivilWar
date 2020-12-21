@@ -1,0 +1,17 @@
+state={
+	id=221
+	name="La Paz"
+
+	history={
+		owner = MEX
+
+	}
+
+
+
+	provinces={
+		2198 3210 3388 3974 4668 5710 5749 5970 6274 10052 10053 10449 10453 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

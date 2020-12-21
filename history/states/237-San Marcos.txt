@@ -1,0 +1,9 @@
+state={
+	id=237
+	name="San Marcos"
+	provinces={
+		357 2806 4217 4873 4996 9733 9751 9791 9812 9817 9826 9835 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

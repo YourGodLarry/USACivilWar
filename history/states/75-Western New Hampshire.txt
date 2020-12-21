@@ -1,0 +1,22 @@
+state={
+	id=75
+	name="Western New Hampshire"
+
+history = {
+owner = NEL
+add_core_of = NEL
+			victory_points = { 7512 5 }
+			victory_points = { 7446 3 }
+	buildings = {
+			infrastructure = 2
+} 
+}
+
+
+	provinces={
+		785 2095 3383 3811 4978 5706 6210 6374 7426 7439 7441 7446 7491 7512 
+	}
+	manpower=237894
+	state_category = town
+	buildings_max_level_factor=1.000
+}

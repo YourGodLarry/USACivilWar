@@ -1,0 +1,9 @@
+state={
+	id=171
+	name="Prince Edward"
+	provinces={
+		1588 4073 6610 7478 7509 10389 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

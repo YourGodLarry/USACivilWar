@@ -1,0 +1,17 @@
+state={
+	id=148
+	name="Old-Harry"
+
+history = {
+owner = PEI
+add_core_of = PEI
+add_core_of = ACD
+}
+
+
+	provinces={
+		10334 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

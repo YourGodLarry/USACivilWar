@@ -1,0 +1,9 @@
+state={
+	id=54
+	name="Redding"
+	provinces={
+		414 2143 2280 3354 3729 3896 4299 4519 4613 4723 5316 6511 6696 7928 7940 7986 7999 8003 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

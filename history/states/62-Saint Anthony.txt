@@ -1,0 +1,17 @@
+
+state={
+	id=62
+	name="Saint Anthony"
+
+history = {
+owner = NFL
+}
+
+
+
+	provinces={
+		1676 2911 6910 6927 10252 10272 10274 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

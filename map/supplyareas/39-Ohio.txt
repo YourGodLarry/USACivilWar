@@ -1,0 +1,8 @@
+supply_area={
+	id=39
+	name="Ohio"
+	value=7
+	states={
+		17 
+	}
+}

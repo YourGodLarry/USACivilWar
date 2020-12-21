@@ -1,0 +1,8 @@
+supply_area={
+	id=9
+	name="Southern New Hampshire"
+	value=8
+	states={
+		8 76 75 73 
+	}
+}

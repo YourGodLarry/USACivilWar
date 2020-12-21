@@ -1,0 +1,15 @@
+state={
+	id=142
+	name="Yarmouth"
+
+history = {
+owner = PEI
+}
+
+
+	provinces={
+		2431 3230 4648 5398 6005 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

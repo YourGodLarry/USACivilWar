@@ -1,0 +1,9 @@
+state={
+	id=197
+	name="Yakima"
+	provinces={
+		226 1087 1642 2425 3165 3695 6270 7236 7242 7284 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

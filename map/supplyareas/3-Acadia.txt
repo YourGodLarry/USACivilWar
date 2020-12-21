@@ -1,0 +1,9 @@
+
+supply_area={
+	id=3
+	name="Acadia"
+	value=2
+	states={
+		92 91 
+	}
+}

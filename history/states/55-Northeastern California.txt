@@ -1,0 +1,9 @@
+state={
+	id=55
+	name="Northeastern California"
+	provinces={
+		867 978 1481 1578 1787 1863 1943 2821 3190 3473 3512 3715 3742 5241 5270 7657 7695 7739 7790 7826 7899 7900 7906 7977 7988 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

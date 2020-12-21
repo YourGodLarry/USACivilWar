@@ -1,0 +1,9 @@
+state={
+	id=196
+	name="Kennewick"
+	provinces={
+		1515 2223 2254 2532 3665 4520 6124 6156 7237 7243 7262 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

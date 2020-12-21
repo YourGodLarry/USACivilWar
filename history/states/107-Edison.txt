@@ -1,0 +1,9 @@
+state={
+	id=107
+	name="Edison"
+	provinces={
+		776 6365 7914 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=239
+	name="Dallas"
+	provinces={
+		3740 6235 6312 9405 9413 9427 9438 9448 9457 9471 9501 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

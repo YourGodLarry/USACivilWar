@@ -1,0 +1,10 @@
+
+state={
+	id=93
+	name="Adirondacks"
+	provinces={
+		88 1377 2369 2413 2453 2615 4271 4799 4914 5100 5511 6266 7419 7467 7483 7484 7511
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

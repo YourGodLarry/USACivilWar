@@ -1,0 +1,15 @@
+state={
+	id=91
+	name="Maine Islands"
+
+history = {
+owner = NEL
+}
+
+
+	provinces={
+		10371 10372 10373 10374 10375 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

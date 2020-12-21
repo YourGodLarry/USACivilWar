@@ -1,0 +1,13 @@
+state={
+	id=125
+	name="Cloudersport"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		421 1453 2664 3567 6337 7807 7832 7840 7857 7885 7912 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

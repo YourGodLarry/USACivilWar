@@ -1,0 +1,26 @@
+state={
+	id=112
+	name="Burlington"
+
+history = {
+owner = NEL
+add_core_of = NEL
+victory_points = { 3879 20 }
+victory_points = { 7381 2 }
+victory_points = { 5310 2 }
+
+	buildings = {
+			infrastructure = 2
+			air_base = 4
+			industrial_complex = 1
+			}
+}
+
+
+	provinces={
+		1639 2107 2424 3879 4004 5310 5456 6825 7357 7370 7381 7390 10380
+	}
+	manpower=238986
+	state_category = town
+	buildings_max_level_factor=1.000
+}

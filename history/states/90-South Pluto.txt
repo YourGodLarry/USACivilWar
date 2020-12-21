@@ -1,0 +1,15 @@
+state={
+	id=90
+	name="South Pluto"
+
+		history = {
+	owner = PLT
+	}
+
+	
+	provinces={
+		732 911 2893 7020 7049 7057 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

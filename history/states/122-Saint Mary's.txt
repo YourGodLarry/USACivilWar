@@ -1,0 +1,13 @@
+state={
+	id=122
+	name="Saint Mary's"
+	history = {
+owner = PEN
+add_core_of = PEN
+}
+	provinces={
+		996 1309 1781 2830 3739 3906 4146 4220 4676 5973 6085 7824 7855 7882 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

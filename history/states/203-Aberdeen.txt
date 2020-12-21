@@ -1,0 +1,9 @@
+state={
+	id=203
+	name="Aberdeen"
+	provinces={
+		201 1046 2291 3602 4284 5127 5499 6007 7169 7210 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

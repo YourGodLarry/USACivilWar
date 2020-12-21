@@ -1,0 +1,8 @@
+supply_area={
+	id=42
+	name="Southern California"
+	value=9
+	states={
+		48 43 49 50 46 
+	}
+}

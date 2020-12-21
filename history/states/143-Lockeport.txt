@@ -1,0 +1,15 @@
+state={
+	id=143
+	name="Lockeport"
+
+history = {
+owner = PEI
+}
+
+
+	provinces={
+		1140 1596 2626 7257 7258 7277 7280 7327 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=26
+	name="South Nova Scotia"
+	value=8
+	states={
+		144 143 142 
+	}
+}

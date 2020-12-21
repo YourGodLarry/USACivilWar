@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=11
+	name="Long Island Coast"
+	provinces={
+		10739 10981 11325 11379 11555 11675 11728 11804 12267 12426 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

@@ -1,0 +1,10 @@
+
+state={
+	id=96
+	name="Buffalo"
+	provinces={
+		3476 3934 6436 7636 7667 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

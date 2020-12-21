@@ -1,0 +1,28 @@
+state={
+	id=140
+	name="Amherst"
+
+history = {
+owner = PEI
+add_core_of = PEI
+		victory_points = { 7185 10 }
+		victory_points = { 1971 2 }
+
+	buildings = {
+			infrastructure = 2 
+									7185 = {
+				naval_base = 4
+			}
+
+
+}
+}
+
+
+	provinces={
+		1971 2774 3494 3987 4423 7185 7190 
+	}
+	manpower=121532
+	state_category = town
+	buildings_max_level_factor=1.000
+}

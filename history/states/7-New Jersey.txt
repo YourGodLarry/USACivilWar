@@ -1,0 +1,10 @@
+
+state={
+	id=7
+	name="Tom's River"
+	provinces={
+		3033 3980 6503 8013 8035 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

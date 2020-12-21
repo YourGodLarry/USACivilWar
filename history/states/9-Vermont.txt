@@ -1,0 +1,24 @@
+
+state={
+	id=9
+	name="Montpelier"
+
+history = {
+owner = NEL
+add_core_of = NEL
+	victory_points = { 7393 10 }
+	victory_points = { 6815 5 }
+	buildings = {
+			infrastructure = 1
+			air_base = 1
+			}
+}
+
+
+	provinces={
+		2150 2787 3833 4077 6232 6309 6815 7347 7374 7387 7393 7420 7462 7471 
+	}
+	manpower=138912
+	state_category = town
+	buildings_max_level_factor=1.000
+}

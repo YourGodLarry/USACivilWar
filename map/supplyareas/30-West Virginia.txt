@@ -1,0 +1,8 @@
+supply_area={
+	id=30
+	name="West Virginia"
+	value=4
+	states={
+		19 155 
+	}
+}

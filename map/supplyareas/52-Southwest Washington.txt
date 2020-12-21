@@ -1,0 +1,8 @@
+supply_area={
+	id=52
+	name="Southwest Washington"
+	value=5
+	states={
+		197 207 206 195 196 
+	}
+}

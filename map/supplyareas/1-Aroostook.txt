@@ -1,0 +1,8 @@
+supply_area={
+	id=1
+	name="Aroostook"
+	value=6
+	states={
+		68 
+	}
+}

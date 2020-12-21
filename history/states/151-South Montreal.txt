@@ -1,0 +1,9 @@
+state={
+	id=151
+	name="South Montreal"
+	provinces={
+		1407 1996 2577 4330 4971 7352 7356 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

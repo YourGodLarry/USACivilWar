@@ -1,0 +1,32 @@
+
+state={
+	id=129
+	name="Moncton"
+
+history = {
+owner = PEI
+add_core_of = PEI
+add_core_of = ACD
+
+		victory_points = { 2500 20 }
+		victory_points = { 7201 5 }
+
+	buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+									2500 = {
+				naval_base = 4
+			}
+
+
+}
+}
+
+
+	provinces={
+		1871 2500 3222 3887 4551 4935 7176 7201 
+	}
+	manpower=234159
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}
