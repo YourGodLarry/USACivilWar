@@ -1,0 +1,161 @@
+division_template = {
+	name = "Minuteman Militia"				
+
+	division_names_group = AOF_GAR_01
+
+	regiments = {
+		Militia = { x = 0 y = 0 }
+		Militia = { x = 0 y = 1 }
+		Militia = { x = 0 y = 2 }
+		Militia = { x = 0 y = 3 }
+		Militia = { x = 0 y = 4 }
+	}
+	priority = 1
+}
+units = {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	division = {
+		name = "1st Militia of Saratoga"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5547
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+	division = {
+		name = "2nd Militia of Saratoga"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5547
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+	division = {
+		name = "3rd Militia of Saratoga"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7533
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "4th Militia of Saratoga"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7533
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "5th Militia of Saratoga"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5547
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "1st Militia of the Lower Hudson"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7561
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "2nd Militia of the Lower Hudson"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 263
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "Hudson Patrol"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7661
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "Watertown Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 1625
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.3
+
+	}
+		division = {
+		name = "Glenfall Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7511
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "White Mountain Boys"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 2615
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 1
+start_experience_factor = 1
+
+	}
+}

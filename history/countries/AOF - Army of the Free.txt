@@ -1,4 +1,4 @@
-capital = 95
+capital = 287
 
 oob = "AOF_1936"
 
@@ -12,8 +12,16 @@ set_technology = {
 	interwar_antiair = 1
 	early_fighter = 1
 }
+if = {
+	limit = {
+		has_start_date < 2057.01.02
+	}
 
-
+	declare_war_on = {
+		target = NYE
+		type = annex_everything
+	}
+}
 
 add_ideas = { 
 }
@@ -34,9 +42,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Sean Wolf"
-	desc = "POLITICS_SEAN_WOLF_DESC"
-	picture = "Portrait_NewEngland_Sean_Wolf.tga"
+	name = "Pierre Stout"
+	desc = "POLITICS_STOUT_DESC"
+	picture = "Portrait_Army_of_Free_Stout.tga"
 	expire = "3000.1.1"
 	ideology = libertarianism
 	traits = {

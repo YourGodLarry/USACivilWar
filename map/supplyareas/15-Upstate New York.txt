@@ -3,6 +3,6 @@ supply_area={
 	name="Upstate New York"
 	value=7
 	states={
-		94 95 93 98 12 99 126 
+		94 95 93 98 12 99 126 287
 	}
 }
