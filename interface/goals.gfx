@@ -2427,4 +2427,22 @@ spriteTypes = {
 		name = "GFX_focus_bandm"
 		texturefile = "gfx/interface/goals/focus_bandm.dds"
 	}
+										SpriteType = { 
+		name = "GFX_focus_shinecity"
+		texturefile = "gfx/interface/goals/focus_shinecity.dds"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

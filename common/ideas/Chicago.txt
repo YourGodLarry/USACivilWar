@@ -24,10 +24,27 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				production_speed_infrastructure_factor = -0.15
+				industrial_capacity_factory = 0.25
+				consumer_goods_factor = -0.10
+				stability_factor = 1
+				justify_war_goal_time = 0.75
 			}
 		}
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 }
 
 

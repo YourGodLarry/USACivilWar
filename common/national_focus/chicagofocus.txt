@@ -1,5 +1,5 @@
 ﻿focus_tree = {
-	id = newengland_focus
+	id = chicago_focus
 	
 	country = {
 		factor = 0
@@ -19,23 +19,19 @@
 
 			focus = {
 		id = shinecity
-		icon = GFX_focus_election
+		icon = GFX_focus_shinecity
 		x = 12
 		y = 0
 
 
-		cost = 0.1
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-		date > 2056.04.22
 		}
-		
 		bypass = {
-		date > 2056.04.22
-
 		}
 
 		available_if_capitulated = yes
