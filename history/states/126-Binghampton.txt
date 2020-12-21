@@ -1,6 +1,9 @@
 state={
 	id=126
 	name="Binghampton"
+history = {
+owner = NYE
+}
 	provinces={
 		1136 1699 4786 7668 7692 7711 7714 7715 7725 
 	}

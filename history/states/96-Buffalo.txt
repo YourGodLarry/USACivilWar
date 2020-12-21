@@ -2,6 +2,9 @@
 state={
 	id=96
 	name="Buffalo"
+history = {
+owner = NYE
+}
 	provinces={
 		3476 3934 6436 7636 7667 
 	}

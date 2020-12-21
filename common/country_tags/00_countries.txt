@@ -9,6 +9,7 @@ DEL = "countries/Delaware.txt"
 PEN = "countries/Pennsylvania.txt"
 CIC = "countries/Chicago.txt"
 AOF = "countries/Freedom"
+NYE = "counties/NYEmpire"
 
 
 

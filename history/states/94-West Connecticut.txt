@@ -1,6 +1,9 @@
 state={
 	id=94
 	name="West Connecticut"
+history = {
+owner = NYE 
+}
 	provinces={
 		4119 4746 5618 6101 7686 7716 7741 
 	}

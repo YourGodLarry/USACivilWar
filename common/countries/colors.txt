@@ -1,5 +1,10 @@
 #reload countrycolors
 
+NYE = {
+	color = rgb { 255 119 0 }
+	color_ui = rgb { 255 119 0 }
+}
+
 AOF = {
 	color = rgb { 61 186 165 }
 	color_ui = rgb { 61 186 165 }
