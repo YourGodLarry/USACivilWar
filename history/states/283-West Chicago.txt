@@ -4,7 +4,8 @@ state={
 	provinces={
 		7952 5474 7990 7968
 	}
-	manpower=0
+	manpower=589102
+	state_category = large_city
 	buildings_max_level_factor=1.000
 
 	history = {
