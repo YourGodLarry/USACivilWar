@@ -3,6 +3,6 @@ supply_area={
 	name="DELETE THIS"
 	value=10
 	states={
-		5014 7274 10463 
+		5014 7274 10463
 	}
 }
