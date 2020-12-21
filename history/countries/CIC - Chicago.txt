@@ -6,7 +6,7 @@ oob = "CIC_1936"
 
 
 set_politics = {
-	ruling_party = conservative
+	ruling_party = Conservative
 	last_election = "1934.7.1"
 	election_frequency = 72
 	elections_allowed = no
