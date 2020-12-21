@@ -15,13 +15,25 @@ NEL_fascism:0 "Green Mountain State"
 
 ARS_Libertarian:0 "Aroostook"
 ARS_Libertarian_DEF:0 "Aroostook"
-ARS_Libertarion_ADJ:0 "Aroostook"
-ARS_Conservatism:0 "Aroostook"
-ARS_Conservatism_ADJ:0 "Aroostook"
-ARS_Conservatism_DEF:0 "Aroostook"
+ARS_Libertarian_ADJ:0 "Aroostook"
+ARS_Conservative:0 "Aroostook"
+ARS_Conservative_ADJ:0 "Aroostook"
+ARS_Conservative_DEF:0 "Aroostook"
 ARS_fascism:0 "The County"
 ARS_communism:0 "The County Commune"
 ARS_neutrality:0 "Aroostook Principality"
+
+
+
+CIC_Libertarian:0 "New Chicago"
+CIC_Libertarian_DEF:0 "New Chicago"
+CIC_Libertarian_ADJ:0 "New Chicago"
+CIC_Conservative:0 "Chicago"
+CIC_Conservative_ADJ:0 "City of Chicago's"
+CIC_Conservative_DEF:0 "Aroostook"
+CIC_fascism:0 "The City"
+CIC_communism:0 "Chicago Commune"
+CIC_neutrality:0 "United Gangs of Chicago"
 
 
 
@@ -48,16 +60,15 @@ PLT_Plutocratic_ADJ:0 "The Plutotean Plutocracy"
 
 
 
+PLT_Plutocratic:0 "Plutotean Plutocracy"
+PLT_Plutocratic_DEF:0 "The Plutotean Plutocracy"
+PLT_Plutocratic_ADJ:0 "The Plutotean Plutocracy"
 
 
 
 
 
 
-
-PEI_Conservative:0 "Prince Edward's Republic"
-PEI_Conservative_DEF:0 "Prince Edward's Republic"
-PEI_Conservative_ADJ:0 "Prince Edward's Republic"
 
 
 
