@@ -1,0 +1,9 @@
+state={
+	id=286
+	name="Northern Rim"
+	provinces={
+		4353 7904 3594 7925
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

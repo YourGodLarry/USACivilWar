@@ -1,8 +1,8 @@
 state={
-	id=15
+	id=284
 	name="Chicago"
 	provinces={
-		849 5098 5139 5474 6100 7946 7952 7968 7975 7990 8000 8025 8031 
+		7975
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

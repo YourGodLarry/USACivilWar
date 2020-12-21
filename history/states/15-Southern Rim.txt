@@ -1,0 +1,9 @@
+state={
+	id=15
+	name="Southern Rim"
+	provinces={
+		849 5098 7952 8025 8031 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
