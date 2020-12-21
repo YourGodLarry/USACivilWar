@@ -2411,4 +2411,20 @@ spriteTypes = {
 		name = "GFX_focus_twa"
 		texturefile = "gfx/interface/goals/focus_twa.dds"
 	}
+							SpriteType = { 
+		name = "GFX_focus_noreast"
+		texturefile = "gfx/interface/goals/focus_noreast.dds"
+	}
+								SpriteType = { 
+		name = "GFX_focus_highway"
+		texturefile = "gfx/interface/goals/focus_highway.dds"
+	}
+									SpriteType = { 
+		name = "GFX_focus_steel"
+		texturefile = "gfx/interface/goals/focus_steel.dds"
+	}
+										SpriteType = { 
+		name = "GFX_focus_bandm"
+		texturefile = "gfx/interface/goals/focus_bandm.dds"
+	}
 }
