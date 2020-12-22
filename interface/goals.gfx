@@ -2457,12 +2457,36 @@ spriteTypes = {
 
 
 
+											SpriteType = { 
+		name = "GFX_focus_dearborn"
+		texturefile = "gfx/interface/goals/focus_dearborn.dds"
+	}
+
+											SpriteType = { 
+		name = "GFX_focus_fire"
+		texturefile = "gfx/interface/goals/focus_fire.dds"
+	}
 
 
+											SpriteType = { 
+		name = "GFX_focus_progress"
+		texturefile = "gfx/interface/goals/focus_progress.dds"
+	}
 
 
+											SpriteType = { 
+		name = "GFX_focus_worldfair"
+		texturefile = "gfx/interface/goals/focus_worldfair.dds"
+	}
 
-
+										SpriteType = { 
+		name = "GFX_focus_fourstars"
+		texturefile = "gfx/interface/goals/focus_fourstars.dds"
+	}
+									SpriteType = { 
+		name = "GFX_focus_hedley"
+		texturefile = "gfx/interface/goals/focus_hedley.dds"
+	}
 
 
 

@@ -42,6 +42,165 @@
 
 
 
+focus = {
+		id = third
+		icon = GFX_focus_hedley
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = shinecity }
+
+		x = 12
+		y = 1
+		cost = 5
+				available = {
+			
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+        
+		}
+		}
+
+
+focus = {
+		id = stars
+		icon = GFX_focus_fourstars
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = third }
+
+		x = 12
+		y = 2
+		cost = 5
+				available = {
+			
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+        
+		}
+		}
+
+
+
+
+focus = {
+		id = fire
+		icon = GFX_focus_fire
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = stars }
+
+		x = 9
+		y = 3
+		cost = 5
+				available = {
+			
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+        
+		}
+		}
+
+
+
+focus = {
+		id = worldfair
+		icon = GFX_focus_worldfair
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = stars }
+
+		x = 11
+		y = 3
+		cost = 5
+				available = {
+			
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+        
+		}
+		}
+
+
+
+focus = {
+		id = progress
+		icon = GFX_focus_progress
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = stars }
+
+		x = 13
+		y = 3
+		cost = 5
+				available = {
+			
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+        
+		}
+		}
+
+focus = {
+		id = dearborn
+		icon = GFX_focus_dearborn
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = stars }
+
+		x = 15
+		y = 3
+		cost = 5
+				available = {
+			
+
+		}
+		ai_will_do = {
+			factor = 100
+		}
+
+		completion_reward = {
+        
+		}
+		}
+
+
 
 
 
