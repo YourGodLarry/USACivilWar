@@ -23,7 +23,9 @@ if = {
 	}
 }
 
+add_timed_idea = { idea = fightingforliberty days = 500 }
 add_ideas = { 
+militia_based_economy
 }
 
 

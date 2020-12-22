@@ -1165,6 +1165,7 @@ spriteTypes = {
 	}
 	
 	### ECONOMY LAWS
+
 	spriteType = {
 		name = "GFX_idea_undisturbed_isolation"
 		texturefile = "gfx/interface/ideas/idea_undisturbed_isolation.dds"
@@ -5640,11 +5641,31 @@ spriteTypes = {
 		name = "GFX_idea_avangridbad"
 		texturefile = "gfx/interface/ideas/avangridbad.dds"
 	}
-							spriteType = {
+								spriteType = {
+		name = "GFX_idea_fightingforliberty"
+		texturefile = "gfx/interface/ideas/fightingforliberty.dds"
+	}
+			spriteType = {
+		name = "GFX_idea_militia_based_economy"
+		texturefile = "gfx/interface/ideas/militia_based_economy.dds"
+	}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+						spriteType = {
 		name = "GFX_idea_shining_city"
 		texturefile = "gfx/interface/ideas/shining_city.dds"
 	}
-
 
 
 }
