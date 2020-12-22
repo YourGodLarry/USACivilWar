@@ -10,7 +10,7 @@ buildings = {
 		icon_frame = 3
 		infrastructure = yes
 		max_level = 30
-		value = 0.3
+		value = 1.0
 
 		show_modifier = yes
 		max_fuel_building = 0.25 #k

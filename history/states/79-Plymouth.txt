@@ -11,7 +11,8 @@ add_core_of = NEL
 		victory_points = { 6536 3 }
 	buildings = {
 			infrastructure = 8
-			industrial_complex = 1
+			industrial_complex = 3
+arms_factory = 1
 			1772 = {
 				naval_base = 2
 			}

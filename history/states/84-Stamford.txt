@@ -11,6 +11,12 @@ victory_points = { 903 20 }
 buildings = {
 infrastructure = 10
 industrial_complex = 1
+			7779 = {
+				naval_base = 5
+			}
+			903 = {
+				naval_base = 8
+			}
 }
 }
 

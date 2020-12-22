@@ -11,6 +11,7 @@ add_core_of = NEL
 
 	buildings = {
 			infrastructure = 12
+industrial_complex = 2
 
 
 }

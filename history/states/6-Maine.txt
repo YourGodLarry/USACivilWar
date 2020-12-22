@@ -3,6 +3,13 @@ state={
 	id=6
 	name="Portland"
 
+
+    resources = {
+        steel = 12
+        aluminium = 8
+    }
+
+
 history = {
 owner = NEL
 add_core_of = NEL
