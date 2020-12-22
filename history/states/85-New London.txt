@@ -4,12 +4,22 @@ state={
 
 history = {
 owner = NEL
+add_core_of = NEL
+victory_points = { 2660 2 }
+victory_points = { 5775 5 }
+victory_points = { 7726 5 }
+victory_points = { 7762 2 }
+buildings = {
+infrastructure = 10
+arms_factory = 1
+}
 }
 
 
 	provinces={
 		406 1175 2660 5775 7685 7726 7742 7762 
 	}
-	manpower=0
+	manpower=987134
+state_category = large_town
 	buildings_max_level_factor=1.000
 }
