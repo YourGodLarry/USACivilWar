@@ -5,12 +5,19 @@ state={
 history = {
 owner = NEL
 add_core_of = NEL
+victory_points = { 6622 7 } 
+victory_points = { 4840 3 } 
+buildings = {
+industrial_complex = 1
+infrastructure = 8
+}
 }
 
 
 	provinces={
 		492 2786 4840 5637 6250 6622 7573 7588 7619 7643 
 	}
-	manpower=0
+	manpower=351982
+state_category = town
 	buildings_max_level_factor=1.000
 }

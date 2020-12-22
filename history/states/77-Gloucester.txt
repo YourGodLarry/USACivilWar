@@ -6,6 +6,7 @@ history = {
 owner = NEL
 add_core_of = NEL
 		victory_points = { 7502 5 }
+                victory_points = { 5138 5 }
 	buildings = {
 			infrastructure = 10
 }
@@ -15,7 +16,7 @@ add_core_of = NEL
 	provinces={
 		2429 5138 7502 
 	}
-	manpower=179800
+	manpower=779800
 	state_category = city
 	buildings_max_level_factor=1.000
 }

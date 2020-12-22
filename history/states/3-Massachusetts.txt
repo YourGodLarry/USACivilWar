@@ -27,7 +27,7 @@ add_core_of = NEL
 	provinces={
 		1122 6237 7528 7540 
 	}
-	manpower=1636728
+	manpower=2636728
 	state_category = megalopolis
 	buildings_max_level_factor=1.000
 }
