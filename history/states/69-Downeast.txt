@@ -12,7 +12,7 @@ add_core_of = NEL
 								victory_points = { 6538 2 }
 		VICTORY_POINTS_5406:0 "Waterville"
 	buildings = {
-			infrastructure = 1
+			infrastructure = 6
 			air_base = 2
 			industrial_complex = 1
 			7300 = {

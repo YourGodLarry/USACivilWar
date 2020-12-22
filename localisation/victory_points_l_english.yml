@@ -56,6 +56,8 @@
  VICTORY_POINTS_5310:0 "Middlebury"
  VICTORY_POINTS_4666:0 "Bennington"
  VICTORY_POINTS_5196:0 "Manchester"
+ VICTORY_POINTS_5310:0 "Rutland"
+
 
 
 
@@ -119,6 +121,27 @@
   VICTORY_POINTS_7996:0 "Philadelphia"
   VICTORY_POINTS_4443:0 "Levittown"
   VICTORY_POINTS_8056:0 "Lancaster"
+
+
+
+
+
+  ###############ArmyOfFree##########
+  VICTORY_POINTS_7561:0 "Greenwich"
+  VICTORY_POINTS_5547:0 "Saratoga Springs"
+  VICTORY_POINTS_7533:0 "Libertyville"
+  VICTORY_POINTS_7467:0 "Lake George"
+  VICTORY_POINTS_7484:0 "Glens Falls"
+  VICTORY_POINTS_4271:0 "Washbury"
+  VICTORY_POINTS_4914:0 "Old Forge"
+  VICTORY_POINTS_2369:0 "Tupper Lake"
+  VICTORY_POINTS_1625:0 "Watertown"
+  VICTORY_POINTS_6838:0 "Fort Drum"
+  VICTORY_POINTS_7453:0 "Ethen Allen Bay"
+  VICTORY_POINTS_4152:0 "Potsdam"
+  VICTORY_POINTS_7388:0 "Plattsburgh"
+
+
 
 
 

@@ -23,6 +23,11 @@ ideas = {
 			army_org_factor = 0.1
 			army_defence_factor = 0.1
 			dig_in_speed = 2
+			conscription_factor = 0.3
+			ai_focus_defense_factor = 0.9
+			offence = -0.1
+			surrender_limit = 1
+
 			}
 		}
 	}

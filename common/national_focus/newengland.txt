@@ -289,7 +289,7 @@ prerequisite = { focus = e2056 }
 
 		focus = {
 		id = arrw
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_railway
 		
 
 		continue_if_invalid = yes
@@ -351,7 +351,7 @@ prerequisite = { focus = e2056 }
 
 						focus = {
 		id = arid
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_textile
 		
 
 		continue_if_invalid = yes
@@ -613,7 +613,7 @@ add_ideas = bostonandmaine
 
 	focus = {
 		id = der
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_downeaster
 prerequisite = { focus = net1 focus = net2 focus = net3 }
 		
 
@@ -752,7 +752,7 @@ prerequisite = { focus = net1 focus = net2 focus = net3 }
 
 						focus = {
 		id = esti
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_steel
 		
 
 		continue_if_invalid = yes
@@ -876,7 +876,7 @@ amount = 16
 
 														focus = {
 		id = natavangrid
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_avangridnat
 		
 
 		continue_if_invalid = yes
@@ -904,7 +904,7 @@ amount = 16
 
 														focus = {
 		id = bailavangrid
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_avangridbail
 		
 
 		continue_if_invalid = yes

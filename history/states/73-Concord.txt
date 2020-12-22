@@ -8,7 +8,7 @@ owner = NEL
 add_core_of = NEL
 		victory_points = { 7487 30 }
 	buildings = {
-			infrastructure = 5
+			infrastructure = 17
 			industrial_complex = 1
 }
 }

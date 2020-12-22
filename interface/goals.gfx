@@ -2432,6 +2432,29 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/focus_shinecity.dds"
 	}
 
+											SpriteType = { 
+		name = "GFX_focus_downeaster"
+		texturefile = "gfx/interface/goals/focus_downeaster.dds"
+	}
+
+												SpriteType = { 
+		name = "GFX_focus_railway"
+		texturefile = "gfx/interface/goals/focus_railway.dds"
+	}
+												SpriteType = { 
+		name = "GFX_focus_textile"
+		texturefile = "gfx/interface/goals/focus_textile.dds"
+	}
+												SpriteType = { 
+		name = "GFX_focus_avangridbail"
+		texturefile = "gfx/interface/goals/focus_avangridbail.dds"
+	}
+
+												SpriteType = { 
+		name = "GFX_focus_avangridnat"
+		texturefile = "gfx/interface/goals/focus_avangridnat.dds"
+	}
+
 
 
 

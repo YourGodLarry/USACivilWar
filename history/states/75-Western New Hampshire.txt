@@ -8,7 +8,7 @@ add_core_of = NEL
 			victory_points = { 7512 5 }
 			victory_points = { 7446 3 }
 	buildings = {
-			infrastructure = 2
+			infrastructure = 5
 } 
 }
 
