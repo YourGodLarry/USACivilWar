@@ -1,6 +1,6 @@
 state={
 	id=108
-	name="New Castle"
+	name="Wilmington"
 	history = {
 	owner = DEL
 	add_core_of = DEL

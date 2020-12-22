@@ -1,6 +1,6 @@
 state={
 	id=178
-	name="Newport"
+	name="Waldport"
 	provinces={
 		3598 7263 7273 7278 7286 7298 7303 
 	}
