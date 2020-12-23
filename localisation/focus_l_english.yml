@@ -54,11 +54,17 @@ right:0 "Conservative Policy"
 left:0 "Libertarian Policy"
 nycivilwarcon:0 "New York Civil War Policy"
 nycivilwarlib:0 "New York Civil War Policy"
+nycivilwarlib_desc:0 "With war raging just across our border we are awoken to the sound of artillery bombardments, Can we really remain neutral as our brothers fight & die in mountain foxholes? I think not! If we do not stop the Nationalist threat in New York, what will stop it from coming for us next?"
+supporttheircause_desc:0 "Upon the signing of this bill we will oficially recognize the legitimacy of the Army of the Free"
 supporttheircause:0 "Support Their Cause"
 sendguns:0 "Send Guns!"
+sendguns_desc:0 "As it is obvious, we have a mass surplus of guns, & nothing to do with them! so we'll send them to our brothers across the Hudson to aid their cause!"
+sendthemilitia_desc:0 "We can not stand idle anymore, we must act now or forever hold our regret."
 sendthemilitia:0 "Send the Militia!"
 union:0 "Propose Unification"
+union_desc:0 "With the outside threats closing in on us we see no other option that to propose a Union between our regions"
 alliance:0 "Propose Alliance"
+alliance_desc:0 "With the outside threats closing in on us we see no other option that to propose a Alliance between our regions"
 
 
 

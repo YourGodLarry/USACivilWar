@@ -989,7 +989,7 @@ amount = 16
 
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 60 
 		}
 
 		completion_reward = {
@@ -1026,7 +1026,7 @@ amount = 16
 
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 40
 		}
 
 		completion_reward = {
@@ -1193,41 +1193,6 @@ amount = 16
 
 
 
-																				         										focus = {       
-		id = sendmen
-		icon = GFX_focus_generic_self_management
-		
-
-		continue_if_invalid = yes
-		available_if_capitulated = yes
-        prerequisite = { focus = sendguns }
-
-		x = 12
-		y = 11
-		cost = 5
-				available = {
-				NYE = {
-				has_war_with = AOF
-				}
-
-
-		}
-		ai_will_do = {
-			factor = 1
-		}
-
-		completion_reward = {
-
-
-
-				}
-				}
-
-
-
-
-
-
 
 				focus = {       
 		id = sendthemilitia
@@ -1236,7 +1201,7 @@ amount = 16
 
 		continue_if_invalid = yes
 		available_if_capitulated = yes
-        prerequisite = { focus = sendmen }
+        prerequisite = { focus = sendguns }
 
 		x = 12
 		y = 11
