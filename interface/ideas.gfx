@@ -5649,6 +5649,11 @@ spriteTypes = {
 		name = "GFX_idea_militia_based_economy"
 		texturefile = "gfx/interface/ideas/militia_based_economy.dds"
 	}
+				spriteType = {
+		name = "GFX_idea_avangridgood"
+		texturefile = "gfx/interface/ideas/avangridgood.dds"
+	}
+
 
 	
 

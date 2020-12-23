@@ -20,7 +20,7 @@
 			focus = {
 		id = e2056
 		icon = GFX_focus_election
-		x = 12
+		x = 16
 		y = 0
 
 
@@ -54,12 +54,12 @@
 		focus = {
 		id = twa
 		icon = GFX_focus_twa
-		x = 19
+		x = 23
 		y = 1
 
 
 		cost = 5
-mutually_exclusive = { focus = toa }
+mutually_exclusive = { focus = right }
 prerequisite = { focus = e2056 }
 		ai_will_do = {
 			factor = 1
@@ -93,7 +93,7 @@ prerequisite = { focus = e2056 }
 		available_if_capitulated = yes
 		prerequisite = { focus = twa }
 
-		x = 20
+		x = 24
 		y = 2
 		cost = 1
 				available = {
@@ -122,7 +122,7 @@ prerequisite = { focus = e2056 }
 
 		search_filters = {FOCUS_FILTER_INDUSTRY}
 
-		x = 20
+		x = 24
 		y = 3
 		cost = 5
 				available = {
@@ -154,7 +154,7 @@ prerequisite = { focus = e2056 }
 		available_if_capitulated = yes
 		prerequisite = { focus = arsp }
 
-		x = 20
+		x = 24
 		y = 4
 		cost = 5
 				available = {
@@ -195,7 +195,7 @@ prerequisite = { focus = e2056 }
 		available_if_capitulated = yes
 		prerequisite = { focus = ahs }
 
-		x = 20
+		x = 24
 		y = 5
 		cost = 10
 				available = {
@@ -229,7 +229,7 @@ prerequisite = { focus = e2056 }
 			focus = {
 		id = toa
 		icon = GFX_focus_toa
-		x = 5
+		x = 9
 		y = 1
 
 
@@ -238,7 +238,7 @@ prerequisite = { focus = e2056 }
 		ai_will_do = {
 			factor = 1
 		}
-mutually_exclusive = { focus = twa }
+mutually_exclusive = { focus = left }
 prerequisite = { focus = e2056 }
 
 		available_if_capitulated = yes
@@ -262,7 +262,7 @@ prerequisite = { focus = e2056 }
 		available_if_capitulated = yes
 		prerequisite = { focus = toa }
 
-		x = 4
+		x = 8
 		y = 2
 		cost = 1
 				available = {
@@ -296,7 +296,7 @@ prerequisite = { focus = e2056 }
 		available_if_capitulated = yes
 		prerequisite = { focus = arip }
 
-		x = 4
+		x = 8
 		y = 3
 		cost = 5
 				available = {
@@ -358,7 +358,7 @@ prerequisite = { focus = e2056 }
 		available_if_capitulated = yes
 		prerequisite = { focus = arrw }
 
-		x = 4
+		x = 8
 		y = 4
 		cost = 5
 				available = {
@@ -395,14 +395,14 @@ prerequisite = { focus = e2056 }
 
 						focus = {
 		id = ftj
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_aroostookstate
 		
 
 		continue_if_invalid = yes
 		available_if_capitulated = yes
 		prerequisite = { focus = arid }
 
-		x = 4
+		x = 8
 		y = 5
 		cost = 10
 				available = {
@@ -446,7 +446,7 @@ prerequisite = { focus = e2056 }
 				focus = {
 		id = "net1"
 		icon = GFX_focus_net1
-		x = 12
+		x = 16
 		y = 3
 
 
@@ -489,7 +489,7 @@ mutually_exclusive = { focus = net3 }
 					focus = {
 		id = net2
 		icon = GFX_focus_net2
-		x = 10
+		x = 14
 		y = 3
 
 
@@ -532,7 +532,7 @@ mutually_exclusive = { focus = net3 }
 					focus = {
 		id = "net3"
 		icon = GFX_focus_net3
-		x = 14
+		x = 18
 		y = 3
 		cost = 5
 
@@ -572,7 +572,7 @@ mutually_exclusive = { focus = net2 }
 						focus = {
 		id = bandm
 		icon = GFX_focus_bandm
-		x = 11
+		x = 15
 		y = 4
 		cost = 5
 
@@ -620,7 +620,7 @@ prerequisite = { focus = net1 focus = net2 focus = net3 }
 		continue_if_invalid = yes
 		available_if_capitulated = yes
 
-		x = 13
+		x = 17
 		y = 4
 		cost = 2
 				available = {
@@ -727,7 +727,7 @@ prerequisite = { focus = net1 focus = net2 focus = net3 }
 		available_if_capitulated = yes
 		prerequisite = { focus = toa }
 
-		x = 6
+		x = 10
 		y = 3
 		cost = 5
 				available = {
@@ -759,7 +759,30 @@ prerequisite = { focus = net1 focus = net2 focus = net3 }
 		available_if_capitulated = yes
 		prerequisite = { focus = bandm }
 
-		x = 8
+		x = 14         										focus = {       
+		id = addinfra
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		prerequisite = { focus = toa }
+
+		x = 9
+		y = 2
+		cost = 5
+				available = {
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}
 		y = 5
 		cost = 5
 				available = {
@@ -771,8 +794,6 @@ prerequisite = { focus = net1 focus = net2 focus = net3 }
 		ai_will_do = {
 			factor = 1
 		}
-
-		search_filters = {FOCUS_FILTER_POLITICAL}
 		completion_reward = {
 
 
@@ -821,7 +842,7 @@ amount = 16
 		available_if_capitulated = yes
 		prerequisite = { focus = twa focus = toa }
 
-		x = 12
+		x = 16
 		y = 2
 		cost = 5
 				available = {
@@ -849,11 +870,10 @@ amount = 16
 		available_if_capitulated = yes
 		prerequisite = { focus = toa }
 
-		x = 1
+		x = 5
 		y = 2
 		cost = 5
 				available = {
-				date > 2056.12.15
 
 
 		}
@@ -885,7 +905,7 @@ amount = 16
 		prerequisite = { focus = addinfra }
 		mutually_exclusive = { focus = bailavangrid }
 
-		x = 2
+		x = 6
 		y = 3
 		cost = 5
 				available = {
@@ -898,6 +918,11 @@ amount = 16
 		}
 
 		completion_reward = {
+		swap_ideas = {
+		remove_idea = avangridbad
+		add_idea = avangrid_national
+		}
+
 
 				}
 				}
@@ -913,7 +938,7 @@ amount = 16
 		prerequisite = { focus = addinfra }
 		mutually_exclusive = { focus = natavangrid }
 
-		x = 0
+		x = 4
 		y = 3
 		cost = 5
 				available = {
@@ -926,6 +951,383 @@ amount = 16
 		}
 
 		completion_reward = {
+		remove_ideas = avangridbad
+
+				}
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				         										focus = {       
+		id = right
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        mutually_exclusive = { focus = twa }
+        mutually_exclusive = { focus = left }
+
+		x = 20
+		y = 1
+		cost = 0.2
+				available = {
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+				         										focus = {       
+		id = left
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+		mutually_exclusive = { focus = toa }
+		mutually_exclusive = { focus = right }
+
+		x = 12
+		y = 1
+		cost = 0.2
+				available = {
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}
+
+
+
+
+
+
+
+								         										focus = {       
+		id = nycivilwarcon
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = right }
+
+		x = 20
+		y = 8
+		cost = 5
+				available = {
+				NYE = {
+				has_war_with = AOF
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+				}
+				}
+
+
+
+
+
+
+
+												         										focus = {       
+		id = nycivilwarlib
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = left }
+
+		x = 12
+		y = 8
+		cost = 5
+				available = {
+				NYE = {
+				has_war_with = AOF
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+		add_political_power = 50
+
+				}
+				}
+
+
+
+
+
+
+
+
+
+												         										focus = {       
+		id = supporttheircause
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = nycivilwarlib }
+
+		x = 12
+		y = 9
+		cost = 5
+				available = {
+				NYE = {
+				has_war_with = AOF
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+		diplomatic_relation = {
+	country = AOF
+	relation = non_aggression_pact
+	active = yes
+}
+
+				}
+				}
+
+
+
+
+
+
+
+																         										focus = {       
+		id = sendguns
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = supporttheircause }
+
+		x = 12
+		y = 10
+		cost = 5
+				available = {
+				NYE = {
+				has_war_with = AOF
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+        send_equipment = {
+        equipment = infantry_equipment 
+        amount = 2500
+        target = AOF
+        }
+
+
+				}
+				}
+
+
+
+
+
+
+
+
+
+
+																				         										focus = {       
+		id = sendmen
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = sendguns }
+
+		x = 12
+		y = 11
+		cost = 5
+				available = {
+				NYE = {
+				has_war_with = AOF
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+
+
+				}
+				}
+
+
+
+
+
+
+
+				focus = {       
+		id = sendthemilitia
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = sendmen }
+
+		x = 12
+		y = 11
+		cost = 5
+				available = {
+				NYE = {
+				has_war_with = AOF
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+create_wargoal = {
+    type = annex_everything
+    target = NYE
+}
+
+
+				}
+				}
+
+
+
+
+
+
+
+
+				focus = {       
+		id = union
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = sendthemilitia }
+        mutually_exclusive = { focus = alliance }
+
+		x = 11
+		y = 12
+		cost = 5
+				available = {
+AOF = { exists = yes }
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
+
+				}
+
+
+
+
+
+
+
+								focus = {       
+		id = alliance
+		icon = GFX_focus_generic_self_management
+		
+
+		continue_if_invalid = yes
+		available_if_capitulated = yes
+        prerequisite = { focus = sendthemilitia }
+        mutually_exclusive = { focus = union }
+
+		x = 13
+		y = 12
+		cost = 5
+				available = {
+AOF = { exists = yes }
+				}
+
+
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+		completion_reward = {
+
 
 				}
 				}

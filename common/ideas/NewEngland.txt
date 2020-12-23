@@ -199,6 +199,28 @@ ideas = {
 
 
 
+						avangrid_national = {
+			picture = avangridgood
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				production_speed_infrastructure_factor = 0.15
+				consumer_goods_factor = 0.05
+				Conservative_drift = -0.03
+			}
+		}
+
+
+
 
 
 

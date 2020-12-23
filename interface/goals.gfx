@@ -2487,6 +2487,10 @@ spriteTypes = {
 		name = "GFX_focus_hedley"
 		texturefile = "gfx/interface/goals/focus_hedley.dds"
 	}
+										SpriteType = { 
+		name = "GFX_focus_aroostookstate"
+		texturefile = "gfx/interface/goals/focus_aroostookstate.dds"
+	}
 
 
 
