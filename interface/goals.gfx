@@ -2491,7 +2491,18 @@ spriteTypes = {
 		name = "GFX_focus_aroostookstate"
 		texturefile = "gfx/interface/goals/focus_aroostookstate.dds"
 	}
-
+											SpriteType = { 
+		name = "GFX_focus_nelaofunion"
+		texturefile = "gfx/interface/goals/focus_nelaofunion.dds"
+	}
+											SpriteType = { 
+		name = "GFX_focus_left"
+		texturefile = "gfx/interface/goals/focus_left.dds"
+	}
+											SpriteType = { 
+		name = "GFX_focus_right"
+		texturefile = "gfx/interface/goals/focus_right.dds"
+	}
 
 
 

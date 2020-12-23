@@ -973,7 +973,7 @@ amount = 16
 
 				         										focus = {       
 		id = right
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_right
 		
 
 		continue_if_invalid = yes
@@ -1010,7 +1010,7 @@ amount = 16
 
 				         										focus = {       
 		id = left
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_left
 		
 
 		continue_if_invalid = yes
@@ -1253,10 +1253,11 @@ amount = 16
 		}
 
 		completion_reward = {
-create_wargoal = {
-    type = annex_everything
-    target = NYE
-}
+	declare_war_on = {
+	target = NYE
+	type = annex_everything
+	}
+
 
 
 				}
@@ -1271,7 +1272,7 @@ create_wargoal = {
 
 				focus = {       
 		id = union
-		icon = GFX_focus_generic_self_management
+		icon = GFX_focus_nelaofunion
 		
 
 		continue_if_invalid = yes
@@ -1284,17 +1285,14 @@ create_wargoal = {
 		cost = 5
 				available = {
 AOF = { exists = yes }
-				}
-
-
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 
 		completion_reward = {
-
-
+		AOF =  { country_event = { id = newengland.1 } }
+				}
 				}
 
 
@@ -1323,7 +1321,7 @@ AOF = { exists = yes }
 
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0
 		}
 
 		completion_reward = {

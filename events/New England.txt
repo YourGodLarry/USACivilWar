@@ -1,0 +1,193 @@
+add_namespace = newengland
+
+
+
+
+# union? (to AOF)
+country_event = {
+	id = newengland.1
+	title = newengland.1.t
+	desc = newengland.1.d
+	picture = GFX_report_event_japan_army_mountainside
+	
+	is_triggered_only = yes
+	
+	option = { # Accept Request
+		name = newengland.1.a
+		ai_chance = {
+			factor = 100
+			}
+		NEL = {
+			country_event = { days = 5 id = newengland.2 }
+		}
+		}
+
+############################################
+
+	option = { # Refuse Request
+		name = newengland.1.c
+		ai_chance = { factor = 0 }
+		NEL = {
+											NEL = {
+			country_event = { days = 5 id = newengland.5 }
+		}
+		}
+	}
+
+	############################################
+
+	option = { # Alliance
+		name = newengland.1.b
+		ai_chance = { factor = 0 }
+		NEL = {
+		country_event = { days = 5 id = newengland.3 }
+			
+		}
+	}
+	}
+
+############################################
+############################################
+############################################
+
+# union? (to NEL accepted)
+country_event = {
+	id = newengland.2
+	title = newengland.2.t
+	desc = newengland.2.d
+	picture = GFX_report_event_japan_army_mountainside
+	
+	is_triggered_only = yes
+	
+	option = { # Accept Request
+		name = newengland.2.a
+		ai_chance = {
+			factor = 100
+			}
+		NEL = {
+			annex_country = {
+			target = AOF
+			transfer_troops = yes
+			}
+
+			}
+		}
+	}
+
+############################################
+############################################
+############################################
+
+# union? (Alliance Instead)
+country_event = {
+	id = newengland.3
+	title = newengland.3.t
+	desc = newengland.3.d
+	picture = GFX_report_event_japan_army_mountainside
+	
+	is_triggered_only = yes
+	
+	option = { # Accept Request
+		name = newengland.3.a
+		ai_chance = {
+			factor = 100
+			}
+		NEL = {
+        create_faction = "New England Patriots"
+        NEL = { add_to_faction = AOF }
+
+			}
+		}
+
+############################################
+
+			option = { # Accept only if they become a subject
+		name = newengland.3.b
+		ai_chance = {
+			factor = 0
+			}
+					AOF = {
+			country_event = { days = 5 id = newengland.4 }
+		}
+
+		}
+
+	############################################
+
+	option = { # Refuse
+		name = newengland.3.c
+		ai_chance = {
+			factor = 0
+			}
+			NEL = {
+			add_political_power = 50
+			}
+											AOF = {
+			country_event = { days = 5 id = newengland.5 }
+		}
+		}
+		}
+
+############################################
+############################################
+############################################
+
+# union? (Final Offer)
+country_event = {
+	id = newengland.4
+	title = newengland.4.t
+	desc = newengland.4.d
+	picture = GFX_report_event_japan_army_mountainside
+	
+	is_triggered_only = yes
+	
+	option = { # Accept Request
+		name = newengland.4.a
+		ai_chance = {
+			factor = 100
+			}
+		NEL = {
+             puppet = AOF
+                     create_faction = "New England Patriots"
+        NEL = { add_to_faction = AOF }
+
+			}
+		}
+############################################
+
+	option = { # Refuse
+		name = newengland.4.b
+		ai_chance = {
+			factor = 0
+			}
+			AOF = {
+			add_political_power = 50
+			}
+								NEL = {
+			country_event = { days = 5 id = newengland.5 }
+		}
+		}
+		}
+############################################
+############################################
+############################################
+
+# union? (Offer Declined)
+country_event = {
+	id = newengland.5
+	title = newengland.5.t
+	desc = newengland.5.d
+	picture = GFX_report_event_japan_army_mountainside
+	
+	is_triggered_only = yes
+	
+	option = { # Accept Request
+		name = newengland.5.a
+		ai_chance = {
+			factor = 100
+			}
+		}
+############################################
+############################################
+############################################
+
