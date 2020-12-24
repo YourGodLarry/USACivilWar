@@ -13,12 +13,12 @@ NEL_fascism:0 "Green Mountain State"
 
 
 
-ARS_Libertarian:0 "Aroostook"
-ARS_Libertarian_DEF:0 "Aroostook"
-ARS_Libertarian_ADJ:0 "Aroostook"
 ARS_Conservative:0 "Aroostook"
 ARS_Conservative_ADJ:0 "Aroostook"
 ARS_Conservative_DEF:0 "Aroostook"
+ARS_Libertarian:0 "Aroostook"
+ARS_Libertarian_DEF:0 "Aroostook"
+ARS_Libertarian_ADJ:0 "Aroostook"
 ARS_fascism:0 "The County"
 ARS_communism:0 "The County Commune"
 ARS_neutrality:0 "Aroostook Principality"
@@ -153,6 +153,24 @@ PEI_Conservaitve_DEF:0 "The Republic of Prince Edward"
 NYE_Nationalist:0 "Empire State"
 NYE_Nationalist_ADJ:0 "The Empire State"
 NYE_NAtionalist_DEF:0 "The Empire State"
+
+
+
+
+
+
+
+
+
+
+NEF_Conservative:0 "Nouvelle-Angleterre République"
+NEF_Conservative_DEF:0 "La Nouvelle-Angleterre République"
+NEF_Conservative_ADJ:0 "La Nouvelle-Angleterre République"
+NEF_Libertarian:0 "Nouvelle-Angleterre République"
+NEF_Libertarian_DEF:0 "La Nouvelle-Angleterre République"
+NEF_Libertarian_ADJ:0 "La Nouvelle-Angleterre République"
+
+
 
 
 

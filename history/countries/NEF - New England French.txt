@@ -1,0 +1,70 @@
+capital = 74
+
+oob = "NEF_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+}
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		early_submarine = 1
+		early_destroyer = 1
+		basic_destroyer = 1
+		early_light_cruiser = 1
+		early_battleship = 1
+		transport = 1
+	}
+}
+
+
+
+add_ideas = { 
+}
+
+
+
+set_politics = {
+	ruling_party = Conservative
+	last_election = "1934.7.1"
+	election_frequency = 72
+	elections_allowed = no
+}
+set_popularities = {
+    Libertarian = 12
+	Conservative = 82
+	Larryism = 6
+}
+
+create_country_leader = {
+	name = "Edouard Cox"
+	desc = "POLITICS_COX_DESC"
+	picture = "Portrait_Cox.tga"
+	expire = "3000.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

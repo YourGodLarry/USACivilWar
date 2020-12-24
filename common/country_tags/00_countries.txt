@@ -10,6 +10,7 @@ PEN = "countries/Pennsylvania.txt"
 CIC = "countries/Chicago.txt"
 AOF = "countries/Freedom"
 NYE = "counties/NYEmpire"
+NEF = "countries/NewEnglandFrench.txt"
 
 
 

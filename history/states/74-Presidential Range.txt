@@ -5,6 +5,7 @@ state={
 history = {
 owner = NEL
 add_core_of = NEL
+add_core_of = NEF
 			victory_points = { 7396 1 }
 			victory_points = { 3791 5 }
 			victory_points = { 2823 2 }

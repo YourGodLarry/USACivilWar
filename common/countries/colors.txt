@@ -1,5 +1,10 @@
 #reload countrycolors
 
+NEF = {
+	color = rgb { 196 223 225 }
+	color_ui = rgb { 196 223 225 }
+}
+
 NYE = {
 	color = rgb { 255 119 0 }
 	color_ui = rgb { 255 119 0 }
