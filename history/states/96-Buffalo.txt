@@ -4,10 +4,20 @@ state={
 	name="Buffalo"
 history = {
 owner = NYE
+add_core_of = NYE
+add_core_of = AOF
+victory_points = { 7667 25 }
+victory_points = { 7636 5 }
+buildings = {
+	infrastructure = 13
+	industrial_complex = 4
+	arms_factory = 2
+}
 }
 	provinces={
-		3476 3934 6436 7636 7667 
+		3476 3934 6436 7636 7667 3920
 	}
-	manpower=0
+	manpower=1297653
+	state_category = city
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,24 @@
+state={
+	id=293
+	name="Rochester"
+
+	history = {
+	owner = NYE
+	add_core_of = NYE
+	add_core_of = AOF
+	victory_points = { 6289 20 }
+	victory_points = { 7663 5 }
+	victory_points = { 3850 5 }
+	buildings = {
+	infrastructure = 11
+	indsutrial_complex = 2
+	arms_factory = 1
+	}
+	}
+	provinces={
+		813 3850 4953 6289 6655 7571 7618 7622 7647 7663 7676 7687 
+	}
+	manpower=962313
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

@@ -1,24 +1,24 @@
 
 state={
-	id=12
-	name="Mohawk Valley"
+	id=126
+	name="Catskills"
 
 	history={
 		owner = NYE
 		add_core_of = NYE
 		add_core_of = AOF
-		victory_points = { 512 10 }
-		victory_points = { 4575 3 }
+		victory_points = { 7688 2 }
 		buildings = {
 		infrastructure = 7
+		arms_factory = 1
 		}
 
 	}
 
 	provinces={
-		512 1485 1591 2259 2801 4219 4575 6621 7570 7631 
+		1136 1699 4786 6735 7668 7688 7711 7715 7725 
 	}
-	manpower=381928
+	manpower=321751
 	state_category = rural
 	buildings_max_level_factor=1.000
 }

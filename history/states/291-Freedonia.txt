@@ -1,0 +1,23 @@
+state={
+	id=291
+	name="Fredonia"
+
+	history = {
+    owner = NYE
+    add_core_of = NYE
+    add_core_of = AOF
+    victory_points = { 7814 5 }
+    victory_points = { 7752 3 }
+    victory_points = { 6757 2 }
+    buildings = {
+    infrastructure = 7
+    inudstrial_complex = 1
+    }
+	}
+	provinces={
+		1239 1337 3443 3727 4094 5096 5175 6757 7752 7758 7788 7791 7814 
+	}
+	manpower=131980
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

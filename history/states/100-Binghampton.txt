@@ -1,0 +1,23 @@
+
+state={
+	id=100
+	name="Binghampton"
+
+	history={
+		owner = NYE
+		add_core_of = NYE
+		add_core_of = AOF
+		victory_points = { 7714 10 }
+		buildings = {
+		infrastructure = 8
+		}
+
+	}
+
+	provinces={
+		852 2648 2934 3499 5017 7679 7692 7714 
+	}
+	manpower=312892
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

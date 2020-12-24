@@ -1,0 +1,23 @@
+
+state={
+	id=101
+	name="Genese"
+
+	history={
+		owner = NYE
+		add_core_of = NYE
+		add_core_of = AOF
+		victory_points = { 7630 2 }
+		buildings = {
+		infrastructure = 7 
+		}
+
+	}
+
+	provinces={
+		2629 4606 5730 7630 7642 7654 7662 
+	}
+	manpower=143896
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

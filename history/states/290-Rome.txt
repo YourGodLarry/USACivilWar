@@ -1,0 +1,19 @@
+state={
+	id=290
+	name="Rome"
+	history = {
+	owner = NYE
+	add_core_of = NYE
+	add_core_of = AOF
+	victory_points = { 3315 5 }
+	buildings = {
+	infrastructure = 7
+	}
+	}
+	provinces={
+		2230 2777 3315 4627 6225 6295 6361 7581 
+	}
+	manpower=228912
+	state_category = rural
+	buildings_max_level_factor=1.000
+}
