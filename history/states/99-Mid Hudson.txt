@@ -2,11 +2,23 @@ state={
 	id=99
 	name="Mid Hudson"
 history = {
+victory_points = { 7781 15 }
+victory_points = { 7810 20 }
+victory_points = { 7763 15 }
+victory_points = { 931 10 }
 owner = NYE
+add_core_of = NYE
+add_core_of = AOF
+buildings ={
+	infrastructure = 12
+	industrial_complex = 2
+	arms_factory = 2
 }
-	provinces={
+	}
+		provinces={
 		276 931 3040 3217 4524 6324 7703 7738 7763 7781 7789 7810 
 	}
-	manpower=0
+	manpower=781985
+	state_category = large_town
 	buildings_max_level_factor=1.000
 }

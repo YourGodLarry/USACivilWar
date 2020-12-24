@@ -6,6 +6,7 @@ state={
 	owner = AOF
 	add_core_of = AOF
 	add_core_of = NYE
+add_claim_by = NEL
 	buildings = {
 	infrastructure = 6
 	}

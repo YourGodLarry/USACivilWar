@@ -1,0 +1,20 @@
+state={
+	id=289
+	name="Adirondack Foothills"
+	history = {
+
+owner = NYE
+add_core_of NYE
+add_core_of = AOF
+victory_points = { 1946 1 }
+		buildings = {
+		infrastructure = 5
+		}
+	}
+		provinces={
+		1946 5920 7510 7531 7536 7537 7557 
+	}
+	manpower=68921
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -2,11 +2,14 @@
 state={
 	id=12
 	name="Mohawk Valley"
-history = {
-owner = NYE
-}
+
+	history={
+		owner = NYE
+
+	}
+
 	provinces={
-		512 1485 1591 1946 2259 2801 3457 4219 4575 5920 6621 6735 7510 7531 7536 7537 7557 7570 7572 7587 7631 7652 7688 3009
+		512 1485 1591 2259 2801 4219 4575 6621 7570 7631 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
