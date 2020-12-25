@@ -13,6 +13,12 @@ buildings ={
 	infrastructure = 12
 	industrial_complex = 2
 	arms_factory = 2
+			7781 = {
+				naval_base = 4
+			}
+			7810 = {
+				naval_base = 8
+			}
 }
 	}
 		provinces={

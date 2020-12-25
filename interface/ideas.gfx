@@ -5653,6 +5653,10 @@ spriteTypes = {
 		name = "GFX_idea_avangridgood"
 		texturefile = "gfx/interface/ideas/avangridgood.dds"
 	}
+					spriteType = {
+		name = "GFX_idea_penal_army"
+		texturefile = "gfx/interface/ideas/penal_army.dds"
+	}
 
 
 	

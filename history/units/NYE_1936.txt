@@ -1,0 +1,482 @@
+
+division_template = {
+	name = "Infantry Brigade"				
+
+	division_names_group = NYE_GAR_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 0 y = 4 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+		infantry = { x = 1 y = 4 }
+	}
+	priority = 10
+}
+
+
+
+
+
+division_template = {
+	name = "Penal Militia"				
+
+	division_names_group = NYE_GAR_01
+
+	regiments = {
+		Militia = { x = 0 y = 0 }
+		Militia = { x = 0 y = 1 }
+		Militia = { x = 0 y = 2 }
+		Militia = { x = 0 y = 3 }
+		Militia = { x = 0 y = 4 }
+		Militia = { x = 1 y = 0 }
+		Militia = { x = 1 y = 1 }
+		Militia = { x = 1 y = 2 }
+		Militia = { x = 1 y = 3 }
+		Militia = { x = 1 y = 4 }
+	}
+	priority = 1
+}
+
+
+
+
+
+division_template = {
+	name = "District Volunteer Militia"				
+
+	division_names_group = NYE_GAR_01
+
+	regiments = {
+		Militia = { x = 0 y = 0 }
+		Militia = { x = 0 y = 1 }
+		Militia = { x = 0 y = 2 }
+		Militia = { x = 0 y = 3 }
+		Militia = { x = 0 y = 4 }
+	}
+	priority = 1
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+units = {
+	division = {
+		name = "Albany Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 3009
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Schenectady Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7572
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Nova New City Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7810
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Syracuse Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5896
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Rochester Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6289
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 1
+
+	}
+division = {
+		name = "Buffalo Infantry Brigade"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7667
+		division_template = "Infantry Brigade"
+		start_equipment_factor = 1
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	division = {
+		name = "1st Penal of the State"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 3009
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "2nd Penal of the State"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7572
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "3rd Penal of the State"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 1946
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Albany Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 3009
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Schenectady Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7572
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Utica Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 512
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Syracuse Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5896
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Rochester Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6289
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Buffalo Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7667
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Poughkeepsie Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7741
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "Nova New City Penal Battalion"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7810
+		division_template = "Penal Militia"
+		start_equipment_factor = 1
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	division = {
+		name = "1st Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 3457
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "2nd Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7652
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "3rd Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 3217
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "4th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5618
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "5th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7531
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "6th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6225
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "7th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7510
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "9th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6295
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "10th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7686
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "11th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7537
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "12th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 2230
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+	division = {
+		name = "13th Integrated Front Line Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7536
+		division_template = "District Volunteer Militia"
+		start_equipment_factor = 1
+
+	}
+
+}

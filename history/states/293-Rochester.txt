@@ -13,6 +13,9 @@ state={
 	infrastructure = 11
 	indsutrial_complex = 2
 	arms_factory = 1
+			6289 = {
+				naval_base = 4
+			}
 	}
 	}
 	provinces={

@@ -1,7 +1,7 @@
 supply_area={
-	id=58
-	name="SUPPLYAREA_58"
-	value=0
+	id=57
+	name="Chicago"
+	value=10
 	states={
 		279 283 286 281 280 284 285 282 
 	}

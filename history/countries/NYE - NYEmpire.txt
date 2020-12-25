@@ -24,7 +24,8 @@ if = {
 	}
 }
 
-add_ideas = { 
+add_ideas = {
+penal_army
 }
 
 
@@ -33,7 +34,7 @@ set_politics = {
 	ruling_party = Nationalist
 	last_election = "1934.7.1"
 	election_frequency = 72
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	Conservative = 1
@@ -43,9 +44,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Sean Wolf"
-	desc = "POLITICS_SEAN_WOLF_DESC"
-	picture = "Portrait_NewEngland_Sean_Wolf.tga"
+	name = "Doug Jeremy"
+	desc = "POLITICS_DOUG_JEREMY_DESC"
+	picture = "Portrait_Doug_Jeremy.tga"
 	expire = "3000.1.1"
 	ideology = ultranationalism
 	traits = {

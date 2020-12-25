@@ -66,7 +66,7 @@ units = {
 		}
 		location = 7533
 		division_template = "Minuteman Militia"
-		start_equipment_factor = 0.3
+		start_equipment_factor = 0.7
 
 	}
 	division = {
@@ -77,7 +77,7 @@ units = {
 		}
 		location = 7533
 		division_template = "Minuteman Militia"
-		start_equipment_factor = 0.3
+		start_equipment_factor = 0.7
 
 	}
 	division = {
@@ -88,7 +88,7 @@ units = {
 		}
 		location = 5547
 		division_template = "Minuteman Militia"
-		start_equipment_factor = 0.3
+		start_equipment_factor = 0.7
 
 	}
 	division = {
@@ -99,7 +99,7 @@ units = {
 		}
 		location = 7561
 		division_template = "Minuteman Militia"
-		start_equipment_factor = 0.3
+		start_equipment_factor = 0.7
 
 	}
 		division = {
@@ -110,7 +110,7 @@ units = {
 		}
 		location = 263
 		division_template = "Minuteman Militia"
-		start_equipment_factor = 0.3
+		start_equipment_factor = 0.7
 
 	}
 		division = {
@@ -121,7 +121,7 @@ units = {
 		}
 		location = 7661
 		division_template = "Minuteman Militia"
-		start_equipment_factor = 0.3
+		start_equipment_factor = 0.7
 
 	}
 		division = {
@@ -132,7 +132,7 @@ units = {
 		}
 		location = 1625
 		division_template = "Minuteman Militia"
-		start_equipment_factor = 0.3
+		start_equipment_factor = 0.7
 
 	}
 		division = {
@@ -146,6 +146,108 @@ units = {
 		start_equipment_factor = 0.7
 
 	}
+		division = {
+		name = "Fort Drum Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 6838
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "Ethan Allen"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7453
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "Potsdam"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 2413
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "Tupper Lake"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 1377
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "Old Forge"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 5100
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "Lake George Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7561
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "1st Plattsburgh Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 1625
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+		division = {
+		name = "2nd Plattsburgh Militia"
+		division_name = {    # New syntax for compatibility with name lists
+			is_name_ordered = yes
+			name_order = 26
+		}
+		location = 7533
+		division_template = "Minuteman Militia"
+		start_equipment_factor = 0.7
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		division = {
 		name = "White Mountain Boys"
 		division_name = {    # New syntax for compatibility with name lists
