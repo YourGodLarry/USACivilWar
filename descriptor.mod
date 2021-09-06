@@ -16,4 +16,3 @@ tags={
 }
 picture="Thumbnail.png"
 supported_version="1.10.1"
-remote_file_id="2126749405"
